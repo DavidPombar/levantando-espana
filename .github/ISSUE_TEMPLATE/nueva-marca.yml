@@ -1,0 +1,59 @@
+name: Nueva marca
+description: Propón una marca española emergente para el directorio
+title: "[Marca] "
+labels: ["nueva-marca"]
+body:
+  - type: input
+    id: nombre
+    attributes:
+      label: Nombre de la marca
+    validations:
+      required: true
+  - type: input
+    id: web
+    attributes:
+      label: Web o tienda online
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: categoria
+    attributes:
+      label: Categoría
+      options:
+        - Moda y complementos
+        - Cosmética y cuidado personal
+        - Hogar y decoración
+        - Comida y bebida
+        - Joyería
+        - Calzado
+        - Infantil
+        - Papelería y libros
+        - Mascotas
+        - Otros
+    validations:
+      required: true
+  - type: input
+    id: descripcion
+    attributes:
+      label: ¿Qué hacen? (una frase)
+    validations:
+      required: true
+  - type: input
+    id: origen
+    attributes:
+      label: Ciudad / provincia
+  - type: dropdown
+    id: precio
+    attributes:
+      label: Rango de precio
+      options:
+        - "€ (hasta 30 €)"
+        - "€€ (30–80 €)"
+        - "€€€ (más de 80 €)"
+  - type: checkboxes
+    id: propia
+    attributes:
+      label: Transparencia
+      options:
+        - label: Es mi propia marca o trabajo en ella
