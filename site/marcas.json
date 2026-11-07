@@ -173,6 +173,206 @@
       "origen": "España",
       "precio": "€€€",
       "imagen": "img/tre-timber-toys.jpg"
+    },
+    {
+      "id": "zahati",
+      "nombre": "Zahati",
+      "web": "https://zahati.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Sombreros y bolsos de paja de trigo trenzada a mano",
+      "origen": "Gata de Gorgos, Alicante",
+      "precio": "€€",
+      "imagen": "img/zahati.jpg"
+    },
+    {
+      "id": "parenzo",
+      "nombre": "Parenzo",
+      "web": "https://www.parenzo.es",
+      "categoria": "Moda y complementos",
+      "descripcion": "Bolsos de piel hechos a mano por artesanos de Ubrique",
+      "origen": "Ubrique, Cádiz",
+      "precio": "€€€",
+      "imagen": "img/parenzo.jpg"
+    },
+    {
+      "id": "laia-alen",
+      "nombre": "Laia Alen",
+      "web": "https://www.laiaalen.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Bolsos y punto de colores, horas de trabajo artesanal por pieza",
+      "origen": "Cataluña",
+      "precio": "€€€",
+      "imagen": "img/laia-alen.jpg"
+    },
+    {
+      "id": "alhamas",
+      "nombre": "Alhamas",
+      "web": "https://alhamas.es",
+      "categoria": "Calzado",
+      "descripcion": "Alpargatas de yute cosidas a mano en la cuna riojana",
+      "origen": "Cervera del Río Alhama, La Rioja",
+      "precio": "€€",
+      "imagen": "img/alhamas.jpg"
+    },
+    {
+      "id": "mibo",
+      "nombre": "Mibo",
+      "web": "https://www.abarcasmenorquinas.com",
+      "categoria": "Calzado",
+      "descripcion": "Avarcas menorquinas hechas en la isla desde 1998",
+      "origen": "Es Migjorn Gran, Menorca",
+      "precio": "€€",
+      "imagen": "img/mibo.jpg"
+    },
+    {
+      "id": "magro-cardona",
+      "nombre": "Magro Cardona",
+      "web": "https://www.magrocardona.com",
+      "categoria": "Calzado",
+      "descripcion": "Botas y zapatos de zapatería artesanal con diseño actual",
+      "origen": "Madrid",
+      "precio": "€€€",
+      "imagen": "img/magro-cardona.jpg"
+    },
+    {
+      "id": "dehesia",
+      "nombre": "Dehesia",
+      "web": "https://dehesia.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Cosmética BIO con plantas medicinales de la dehesa extremeña",
+      "origen": "Cáceres",
+      "precio": "€",
+      "imagen": "img/dehesia.jpg"
+    },
+    {
+      "id": "jabonalia",
+      "nombre": "Jabonalia",
+      "web": "https://jabonalia.es",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Jabones y champús sólidos artesanos, sin plásticos",
+      "origen": "Barcelona",
+      "precio": "€",
+      "imagen": "img/jabonalia.jpg"
+    },
+    {
+      "id": "milagritos",
+      "nombre": "Milagritos",
+      "web": "https://milagritos.store",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Velas de soja y coco hechas a mano, con caja regalo",
+      "origen": "Barcelona",
+      "precio": "€",
+      "imagen": "img/milagritos.jpg"
+    },
+    {
+      "id": "delenzo",
+      "nombre": "dE.LENZO",
+      "web": "https://delenzo.es",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Ropa de hogar de lino y mantas de merino cosidas en taller",
+      "origen": "Alcoy, Alicante",
+      "precio": "€€",
+      "imagen": "img/delenzo.jpg"
+    },
+    {
+      "id": "trepille",
+      "nombre": "Trepillé",
+      "web": "https://www.trepille.com",
+      "categoria": "Joyería",
+      "descripcion": "Joyas y accesorios de autor hechos pieza a pieza",
+      "origen": "Bigues i Riells, Barcelona",
+      "precio": "€€",
+      "imagen": "img/trepille.jpg"
+    },
+    {
+      "id": "emolo",
+      "nombre": "Émolo",
+      "web": "https://www.emolo.es",
+      "categoria": "Joyería",
+      "descripcion": "Bisutería artesanal en latón, perlas y cerámica esmaltada",
+      "origen": "El Palmar, Murcia",
+      "precio": "€€",
+      "imagen": "img/emolo.jpg"
+    },
+    {
+      "id": "riera-joies",
+      "nombre": "Riera Joies",
+      "web": "https://www.rierajoies.com",
+      "categoria": "Joyería",
+      "descripcion": "Joyas de plata con vidrio de mar, hechas a mano",
+      "origen": "Menorca",
+      "precio": "€€",
+      "imagen": "img/riera-joies.jpg"
+    },
+    {
+      "id": "bitxo-bola",
+      "nombre": "Bitxo Bola",
+      "web": "https://bitxobola.com",
+      "categoria": "Infantil",
+      "descripcion": "Ropa infantil de algodón ecológico hecha en su tienda-taller",
+      "origen": "Bilbao, Bizkaia",
+      "precio": "€€",
+      "imagen": "img/bitxo-bola.jpg"
+    },
+    {
+      "id": "mamitis",
+      "nombre": "Mamitis",
+      "web": "https://www.mamitis.es",
+      "categoria": "Infantil",
+      "descripcion": "Ropa de bebé y peleles personalizados, cosidos en España",
+      "origen": "Barcelona",
+      "precio": "€€",
+      "imagen": "img/mamitis.jpg"
+    },
+    {
+      "id": "ineffable-coffee",
+      "nombre": "Ineffable Coffee",
+      "web": "https://ineffablecoffee.com",
+      "categoria": "Comida y bebida",
+      "descripcion": "Café de especialidad de los campeones de tueste de España 2024",
+      "origen": "Dos Hermanas, Sevilla",
+      "precio": "€",
+      "imagen": "img/ineffable-coffee.jpg"
+    },
+    {
+      "id": "pimpiliana",
+      "nombre": "Pimpiliana",
+      "web": "https://pimpilianaeditorial.com",
+      "categoria": "Papelería y libros",
+      "descripcion": "Editorial infantil ilustrada: las aventuras de la bruja Pamplinas",
+      "origen": "Madrid",
+      "precio": "€",
+      "imagen": "img/pimpiliana.jpg"
+    },
+    {
+      "id": "dos-manos",
+      "nombre": "Dos Manos",
+      "web": "https://www.editorialdosmanos.com",
+      "categoria": "Papelería y libros",
+      "descripcion": "Editorial independiente de ficción contemporánea y rescates literarios",
+      "origen": "Barcelona",
+      "precio": "€",
+      "imagen": "img/dos-manos.jpg"
+    },
+    {
+      "id": "happy-swallow",
+      "nombre": "Happy Swallow",
+      "web": "https://happyswallow.com",
+      "categoria": "Mascotas",
+      "descripcion": "Camas de madera y comederos personalizados, hechos a mano",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/happy-swallow.jpg"
+    },
+    {
+      "id": "lolos",
+      "nombre": "LOLO'S",
+      "web": "https://lslolos.com",
+      "categoria": "Mascotas",
+      "descripcion": "Collares y correas de tejido fabricados en su propio taller",
+      "origen": "España",
+      "precio": "€",
+      "imagen": "img/lolos.jpg"
     }
   ]
 }
