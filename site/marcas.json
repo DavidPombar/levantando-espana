@@ -720,6 +720,16 @@
       "origen": "España",
       "precio": "€",
       "imagen": "img/the-sangria-spritz.jpg"
+    },
+    {
+      "id": "srta-bolitas",
+      "nombre": "Srta. Bolitas",
+      "web": "https://www.srtabolitas.com",
+      "categoria": "Joyería",
+      "descripcion": "Collares, pulseras y pendientes hechos a mano con piedras naturales y cristal, y atrapaluces para la ventana",
+      "origen": "Barcelona",
+      "precio": "€",
+      "imagen": "img/srta-bolitas.jpg"
     }
   ]
 }
