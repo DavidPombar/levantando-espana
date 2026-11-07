@@ -29,6 +29,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
+| [Félix de Martín](https://www.felixdemartin.com) | Sombreros, turbantes y tocados hechos a mano en su taller, para novia, invitada y hombre | Ourense | €€€ |
 | [Gamuza](https://gamuzacraft.com) | Bolsos y objetos de cuero hechos con pieles que la industria descarta | España | €€ |
 | [Huemul Leather](https://www.huemulleather.com) | Bolsos de cuero de curtido vegetal hechos en su taller | Mallorca | €€€ |
 | [La Madreña Moderna](https://lamadrenamoderna.com) | Camisetas y sudaderas ilustradas con fauna ibérica, hechas a mano | España | €€ |
