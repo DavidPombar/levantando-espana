@@ -21,4 +21,4 @@ Añade una fila en la tabla de la categoría correspondiente, manteniendo el **o
 - Sin enlaces de afiliado ni parámetros de tracking.
 - Una marca por PR, por favor.
 
-¿Prefieres no tocar Markdown? Abre un issue con la plantilla **Nueva marca** con solo el nombre y la web. Un bot investiga la marca, abre la PR automáticamente y nosotros la revisamos antes de publicarla.
+¿Prefieres no tocar Markdown? Abre un issue con la plantilla **Nueva marca** con solo el nombre y la web, y nosotros nos encargamos.

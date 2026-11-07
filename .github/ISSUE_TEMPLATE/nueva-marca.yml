@@ -1,12 +1,12 @@
 name: Nueva marca
-description: Propón una marca española emergente. La investigamos automáticamente y abrimos una PR.
+description: Propón una marca española emergente para el directorio
 title: "[Marca] "
 labels: ["nueva-marca"]
 body:
   - type: markdown
     attributes:
       value: |
-        Solo necesitamos el nombre y la web. Un bot investigará la marca (qué hace, de dónde es, precios) y abrirá una propuesta que revisaremos antes de publicarla. 🇪🇸
+        Solo necesitamos el nombre y la web. Revisaremos la marca y, si encaja, la añadiremos al directorio. 🇪🇸
   - type: input
     id: nombre
     attributes:
