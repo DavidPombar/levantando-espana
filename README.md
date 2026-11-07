@@ -93,7 +93,7 @@ _Aún no hay marcas aquí. [¿Conoces alguna?](../../issues/new?template=nueva-m
 
 Dos formas:
 
-1. **Sin tocar código:** abre un [issue con la plantilla "Nueva marca"](../../issues/new?template=nueva-marca.yml).
+1. **Lo más fácil:** abre un [issue "Nueva marca"](../../issues/new?template=nueva-marca.yml) con el nombre y la web. Un bot 🤖 la investiga y abre una propuesta, y la publicamos cuando la revisemos.
 2. **Con un Pull Request:** añade una fila en la categoría que toque siguiendo la [guía de contribución](CONTRIBUTING.md).
 
 **Leyenda de precio:** `€` hasta 30 € · `€€` 30–80 € · `€€€` más de 80 €

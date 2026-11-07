@@ -1,8 +1,12 @@
 name: Nueva marca
-description: Propón una marca española emergente para el directorio
+description: Propón una marca española emergente. La investigamos automáticamente y abrimos una PR.
 title: "[Marca] "
 labels: ["nueva-marca"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Solo necesitamos el nombre y la web. Un bot investigará la marca (qué hace, de dónde es, precios) y abrirá una propuesta que revisaremos antes de publicarla. 🇪🇸
   - type: input
     id: nombre
     attributes:
@@ -16,41 +20,11 @@ body:
       placeholder: https://
     validations:
       required: true
-  - type: dropdown
-    id: categoria
+  - type: textarea
+    id: motivo
     attributes:
-      label: Categoría
-      options:
-        - Moda y complementos
-        - Cosmética y cuidado personal
-        - Hogar y decoración
-        - Comida y bebida
-        - Joyería
-        - Calzado
-        - Infantil
-        - Papelería y libros
-        - Mascotas
-        - Otros
-    validations:
-      required: true
-  - type: input
-    id: descripcion
-    attributes:
-      label: ¿Qué hacen? (una frase)
-    validations:
-      required: true
-  - type: input
-    id: origen
-    attributes:
-      label: Ciudad / provincia
-  - type: dropdown
-    id: precio
-    attributes:
-      label: Rango de precio
-      options:
-        - "€ (hasta 30 €)"
-        - "€€ (30–80 €)"
-        - "€€€ (más de 80 €)"
+      label: ¿Por qué la recomiendas? (opcional)
+      description: Cualquier dato útil, por ejemplo qué regalarías o de dónde son.
   - type: checkboxes
     id: propia
     attributes:
