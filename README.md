@@ -6,7 +6,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 
 > ¿Conoces una marca que debería estar aquí? [Propónla](#-añade-una-marca) 👇
 
-🌐 **Ver el catálogo con fotos:** la web vive en [`site/`](site/).
+🌐 **Ver el catálogo con fotos: [levantando-espana.vercel.app](https://levantando-espana.vercel.app)**
 
 
 ---
