@@ -95,6 +95,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Mar Montenegro](https://marmontenegro.com) | Joyas de porcelana hechas a mano | España | €€ |
 | [Paula Yera](https://paulayera.com) | Joyería de autor en plata con piedras en bruto | Zaragoza | €€ |
 | [Riera Joies](https://www.rierajoies.com) | Joyas de plata con vidrio de mar, hechas a mano | Menorca | €€ |
+| [Srta. Bolitas](https://www.srtabolitas.com) | Collares, pulseras y pendientes hechos a mano con piedras naturales y cristal, y atrapaluces para la ventana | Barcelona | € |
 | [Suagongo](https://suagongo.com) | Joyería contemporánea impresa en 3D en su propio estudio | Galicia | €€ |
 | [Trepillé](https://www.trepille.com) | Joyas y accesorios de autor hechos pieza a pieza | Bigues i Riells, Barcelona | €€ |
 | [Émolo](https://www.emolo.es) | Bisutería artesanal en latón, perlas y cerámica esmaltada | El Palmar, Murcia | €€ |
