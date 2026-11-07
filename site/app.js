@@ -4,7 +4,7 @@
 // Propuestas por email vía Web3Forms. La access key es pública por diseño:
 // solo permite enviar al correo con el que se creó (david.pombar+levantando@gmail.com).
 const DESTINO = "https://api.web3forms.com/submit";
-const WEB3FORMS_KEY = "PENDIENTE";
+const WEB3FORMS_KEY = "3f866f43-bc7a-43db-a9e5-10d922af625f";
 const MAX_FILAS = 20;
 
 // Nombres cortos para el índice (estilo catálogo)
