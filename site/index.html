@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Levantando España · Catálogo de marcas españolas hechas a pulso</title>
+<meta name="description" content="Directorio de pequeñas marcas españolas independientes para tus regalos de Navidad. Moda, hogar, despensa, joyería y juguetes hechos aquí.">
+<meta property="og:title" content="Levantando España">
+<meta property="og:description" content="Pequeñas marcas que madrugan, se la juegan y fabrican aquí. Esta Navidad, regala a quien se lo curra.">
+<meta property="og:image" content="img/mestas.jpg">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><circle cx='32' cy='32' r='29' fill='%23F3EEE4' stroke='%23B8361E' stroke-width='4'/><text x='32' y='44' font-family='Georgia,serif' font-size='34' text-anchor='middle' fill='%23B8361E' font-style='italic'>E</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital@0;1&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+<div class="tira mono">
+  <span>Catálogo Nº 1 · Navidad 2026</span>
+  <span class="ocultar">Directorio abierto · Marcas españolas independientes</span>
+  <a href="#proponer">Proponer una marca →</a>
+</div>
+
+<header class="portada">
+  <div>
+    <h1>Levantando<br><em>España</em></h1>
+    <p class="entradilla">Pequeñas marcas que madrugan, se la juegan y fabrican aquí. <i>Esta Navidad, regala a quien se lo curra.</i></p>
+    <div class="cifras">
+      <div><b id="n-marcas">–</b><span class="mono">marcas</span></div>
+      <div><b id="n-prov">–</b><span class="mono">provincias</span></div>
+      <div><b>0</b><span class="mono">grandes grupos</span></div>
+    </div>
+  </div>
+  <a class="lamina" id="lamina" target="_blank" rel="noopener">
+    <figure><img id="lamina-img" alt=""></figure>
+    <figcaption class="mono"><span id="lamina-pie"></span><span id="lamina-num"></span></figcaption>
+    <div class="sello" aria-hidden="true">HECHO<br>A PULSO<br>· ESPAÑA ·</div>
+  </a>
+</header>
+
+<nav class="indice" aria-label="Filtros del catálogo">
+  <span class="mono">Sección</span>
+  <div class="filtros" id="f-cat"></div>
+  <span class="mono">Precio</span>
+  <div class="filtros" id="f-precio"></div>
+</nav>
+
+<div class="resultado mono"><span id="contador"></span><span>Fotos: cortesía de cada marca</span></div>
+<main class="catalogo" id="catalogo"></main>
+
+<section class="proponer" id="proponer">
+  <div class="proponer-intro">
+    <h2>¿Falta alguna?<br><em>Seguro que sí.</em></h2>
+    <p>Este catálogo lo hacemos entre todos. Si conoces marcas españolas pequeñas e independientes, mándanoslas. Con el nombre y la web basta: del resto nos encargamos nosotros.</p>
+    <ul class="mono requisitos">
+      <li>Fundada y hecha en España</li>
+      <li>Independiente, de ningún gran grupo</li>
+      <li>Se puede comprar ya, online o en tienda</li>
+    </ul>
+  </div>
+
+  <form id="form" novalidate>
+    <fieldset>
+      <legend class="mono">Marcas que propones</legend>
+      <div id="filas"></div>
+      <button type="button" class="enlace" id="anadir">+ Añadir otra marca</button>
+    </fieldset>
+
+    <label class="campo">
+      <span class="mono">¿Tienes una lista? Pégala aquí <i>(opcional, una por línea)</i></span>
+      <textarea name="lista" rows="3" placeholder="Nombre de la marca – web o Instagram"></textarea>
+    </label>
+
+    <div class="dos">
+      <label class="campo"><span class="mono">Tu nombre <i>(opcional)</i></span><input name="nombre" autocomplete="name"></label>
+      <label class="campo"><span class="mono">Tu email <i>(opcional)</i></span><input name="email" type="email" autocomplete="email" placeholder="Por si tenemos dudas"></label>
+    </div>
+
+    <label class="check"><input type="checkbox" name="propia"> Alguna de estas marcas es mía o trabajo en ella</label>
+    <input type="text" name="_honey" class="trampa" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+    <div class="enviar">
+      <button type="submit" class="boton" id="boton">Enviar propuesta</button>
+      <p class="estado" id="estado" role="status" aria-live="polite"></p>
+    </div>
+  </form>
+</section>
+
+<footer class="pie">
+  <p class="cortesia">El hosting y los tokens de IA con los que construimos y ampliamos este directorio son cortesía de <a href="https://www.trackingplan.com" target="_blank" rel="noopener">Trackingplan</a>.</p>
+  <p class="mono">Sin enlaces de afiliado · Sin publicidad · <a href="https://github.com/DavidPombar/levantando-espana" target="_blank" rel="noopener">Código abierto en GitHub</a></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

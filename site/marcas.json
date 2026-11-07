@@ -1,0 +1,178 @@
+{
+  "portada": "mestas",
+  "marcas": [
+    {
+      "id": "laagam",
+      "nombre": "Laagam",
+      "web": "https://laagam.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Moda femenina atemporal: bolsos, abrigos y punto",
+      "origen": "Barcelona",
+      "precio": "€€€",
+      "imagen": "img/laagam.jpg"
+    },
+    {
+      "id": "la-madrena-moderna",
+      "nombre": "La Madreña Moderna",
+      "web": "https://lamadrenamoderna.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Camisetas y sudaderas ilustradas con fauna ibérica, hechas a mano",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/la-madrena-moderna.jpg"
+    },
+    {
+      "id": "mile-design",
+      "nombre": "Milé Design",
+      "web": "https://miledesign.es",
+      "categoria": "Moda y complementos",
+      "descripcion": "Moda femenina con diseño propio y firmas seleccionadas",
+      "origen": "Palencia",
+      "precio": "€€",
+      "imagen": "img/mile-design.jpg"
+    },
+    {
+      "id": "el-obrador-de-momo",
+      "nombre": "El Obrador de Momo",
+      "web": "https://www.elobradordemomo.com",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Cerámica de autor hecha y pintada a mano",
+      "origen": "Montemayor del Río, Salamanca",
+      "precio": "€€",
+      "imagen": "img/el-obrador-de-momo.jpg"
+    },
+    {
+      "id": "intre",
+      "nombre": "Intre",
+      "web": "https://intre.es",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Objetos cotidianos de diseño: tazas ilustradas, cuencos y más",
+      "origen": "Meira, Lugo",
+      "precio": "€€",
+      "imagen": "img/intre.jpg"
+    },
+    {
+      "id": "mestas",
+      "nombre": "Mestas",
+      "web": "https://mestas.es",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Mantas de sofá de lana merina trashumante, 100% hechas en España",
+      "origen": "España",
+      "precio": "€€€",
+      "imagen": "img/mestas.jpg"
+    },
+    {
+      "id": "cultivo-desterrado",
+      "nombre": "Cultivo Desterrado",
+      "web": "https://cultivodesterrado.es",
+      "categoria": "Comida y bebida",
+      "descripcion": "Hortalizas de navazo, una huerta costera casi extinta recuperada",
+      "origen": "Sanlúcar de Barrameda, Cádiz",
+      "precio": "€€",
+      "imagen": "img/cultivo-desterrado.jpg",
+      "ancha": true
+    },
+    {
+      "id": "miradorio",
+      "nombre": "Miradorio",
+      "web": "https://miradorio.com",
+      "categoria": "Comida y bebida",
+      "descripcion": "Bodega familiar: vinos blancos de la costa cántabra y catas",
+      "origen": "Ruiloba, Cantabria",
+      "precio": "€",
+      "imagen": "img/miradorio.jpg"
+    },
+    {
+      "id": "vitamina-jota",
+      "nombre": "Vitamina Jota",
+      "web": "https://www.vitaminajota.com",
+      "categoria": "Comida y bebida",
+      "descripcion": "Jamón y paleta ibéricos de la sierra de Huelva, lotes navideños",
+      "origen": "Huelva",
+      "precio": "€€€",
+      "imagen": "img/vitamina-jota.jpg"
+    },
+    {
+      "id": "kett",
+      "nombre": "Kett",
+      "web": "https://www.kettbrand.com",
+      "categoria": "Joyería",
+      "descripcion": "Collares de piedras y abalorios hechos a mano",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/kett.jpg"
+    },
+    {
+      "id": "kuus",
+      "nombre": "Kuus",
+      "web": "https://www.kuus.es",
+      "categoria": "Joyería",
+      "descripcion": "Joyas y adornos de cerámica artesanal",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/kuus.jpg"
+    },
+    {
+      "id": "paula-yera",
+      "nombre": "Paula Yera",
+      "web": "https://paulayera.com",
+      "categoria": "Joyería",
+      "descripcion": "Joyería de autor en plata con piedras en bruto",
+      "origen": "Zaragoza",
+      "precio": "€€",
+      "imagen": "img/paula-yera.jpg"
+    },
+    {
+      "id": "grapat",
+      "nombre": "Grapat",
+      "web": "https://shop.grapat.eu/es/inicio",
+      "categoria": "Infantil",
+      "descripcion": "Juguetes de madera pintados a mano para jugar imaginando",
+      "origen": "Girona",
+      "precio": "€",
+      "imagen": "img/grapat.jpg"
+    },
+    {
+      "id": "monatabu",
+      "nombre": "Monatabu",
+      "web": "https://monatabu.es",
+      "categoria": "Infantil",
+      "descripcion": "Muñecas de trapo y de apego cosidas en taller familiar",
+      "origen": "San Cristóbal de Segovia",
+      "precio": "€",
+      "imagen": "img/monatabu.jpg",
+      "ancha": true
+    },
+    {
+      "id": "petita-guilla",
+      "nombre": "Petita Guilla",
+      "web": "https://petitaguilla.com",
+      "categoria": "Infantil",
+      "descripcion": "Juguetes de madera pintados a mano en taller familiar",
+      "origen": "Sant Hilari Sacalm, Girona",
+      "precio": "€€",
+      "imagen": "img/petita-guilla.jpg"
+    },
+    {
+      "id": "toca-jugar-madera",
+      "nombre": "Toca Jugar Madera",
+      "web": "https://tocajugarmadera.es",
+      "categoria": "Infantil",
+      "descripcion": "Juegos artesanales de madera para jugar en familia y al aire libre",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/toca-jugar-madera.jpg",
+      "ancha": true
+    },
+    {
+      "id": "tre-timber-toys",
+      "nombre": "Tré Timber Toys",
+      "web": "https://tretimbertoys.com",
+      "categoria": "Infantil",
+      "descripcion": "Juguetes y muebles infantiles de madera",
+      "origen": "España",
+      "precio": "€€€",
+      "imagen": "img/tre-timber-toys.jpg"
+    }
+  ]
+}
