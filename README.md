@@ -52,6 +52,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [El Obrador de Momo](https://www.elobradordemomo.com) | Cerámica de autor hecha y pintada a mano | Montemayor del Río, Salamanca | €€ |
 | [Intre](https://intre.es) | Objetos cotidianos de diseño: tazas ilustradas, cuencos y más | Meira, Lugo | €€ |
 | [Mestas](https://mestas.es) | Mantas de sofá de lana merina trashumante, 100% hechas en España | España | €€€ |
+| [Tierra Cocida](https://www.alfartierracocida.com) | Vajilla de cerámica pintada a mano: platos ralladores, aceiteras y cuencos | Málaga | €€ |
 
 ## 🍷 Comida y bebida
 
