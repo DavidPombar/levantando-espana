@@ -160,8 +160,7 @@
       "descripcion": "Juegos artesanales de madera para jugar en familia y al aire libre",
       "origen": "España",
       "precio": "€€",
-      "imagen": "img/toca-jugar-madera.jpg",
-      "ancha": true
+      "imagen": "img/toca-jugar-madera.jpg"
     },
     {
       "id": "tre-timber-toys",
@@ -382,6 +381,16 @@
       "origen": "Málaga",
       "precio": "€€",
       "imagen": "img/tierra-cocida.jpg"
+    },
+    {
+      "id": "lantana-atelier",
+      "nombre": "Lantana Atelier",
+      "web": "https://www.lantanaatelier.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Bikinis reversibles de nailon regenerado, hechos en fábricas familiares españolas",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/lantana-atelier.jpg"
     }
   ]
 }
