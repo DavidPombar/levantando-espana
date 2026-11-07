@@ -72,6 +72,11 @@ h1 em,h2 em{font-style:italic;color:var(--acento)}
 .requisitos{list-style:none;margin-top:22px;border-top:1px solid var(--linea)}
 .requisitos li{padding:9px 0;border-bottom:1px solid var(--linea)}
 .requisitos li::before{content:"✓ ";color:var(--acento)}
+.alternativa{margin-top:28px;padding:16px 18px;border:1px dashed var(--tinta-2)}
+.alternativa .mono{color:var(--tinta-2)}
+.alternativa p:last-child{margin-top:6px;font-size:16px;color:var(--tinta)}
+.alternativa a{color:var(--acento);text-underline-offset:3px}
+.alternativa code{font-family:var(--mono);font-size:13px;background:var(--papel-2);padding:1px 5px}
 form{display:flex;flex-direction:column;gap:22px}
 fieldset{border:0}
 legend{margin-bottom:8px;color:var(--tinta-2)}
