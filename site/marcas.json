@@ -730,6 +730,16 @@
       "origen": "Barcelona",
       "precio": "€",
       "imagen": "img/srta-bolitas.jpg"
+    },
+    {
+      "id": "felix-de-martin",
+      "nombre": "Félix de Martín",
+      "web": "https://www.felixdemartin.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Sombreros, turbantes y tocados hechos a mano en su taller, para novia, invitada y hombre",
+      "origen": "Ourense",
+      "precio": "€€€",
+      "imagen": "img/felix-de-martin.jpg"
     }
   ]
 }
