@@ -140,8 +140,7 @@
       "descripcion": "Muñecas de trapo y de apego cosidas en taller familiar",
       "origen": "San Cristóbal de Segovia",
       "precio": "€",
-      "imagen": "img/monatabu.jpg",
-      "ancha": true
+      "imagen": "img/monatabu.jpg"
     },
     {
       "id": "petita-guilla",
@@ -373,6 +372,16 @@
       "origen": "España",
       "precio": "€",
       "imagen": "img/lolos.jpg"
+    },
+    {
+      "id": "tierra-cocida",
+      "nombre": "Tierra Cocida",
+      "web": "https://www.alfartierracocida.com",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Vajilla de cerámica pintada a mano: platos ralladores, aceiteras y cuencos",
+      "origen": "Málaga",
+      "precio": "€€",
+      "imagen": "img/tierra-cocida.jpg"
     }
   ]
 }
