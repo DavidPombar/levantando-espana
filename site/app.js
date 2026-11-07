@@ -1,7 +1,10 @@
 // Levantando España: catálogo + formulario de propuestas.
 // Las marcas viven en marcas.json; esta página solo las pinta.
 
-const DESTINO = "https://formsubmit.co/ajax/david.pombar%2Blevantando@gmail.com";
+// Propuestas por email vía Web3Forms. La access key es pública por diseño:
+// solo permite enviar al correo con el que se creó (david.pombar+levantando@gmail.com).
+const DESTINO = "https://api.web3forms.com/submit";
+const WEB3FORMS_KEY = "3f866f43-bc7a-43db-a9e5-10d922af625f";
 const MAX_FILAS = 20;
 
 // Nombres cortos para el índice (estilo catálogo)
@@ -113,7 +116,7 @@ function mensaje(texto, tipo) {
 async function enviar(e) {
   e.preventDefault();
   const form = e.target;
-  if (form._honey.value) return; // bot
+  if (form.botcheck.checked) return; // bot
 
   document.querySelectorAll(".error-campo").forEach(el => el.classList.remove("error-campo"));
 
@@ -141,13 +144,15 @@ async function enviar(e) {
   const total = lineas.length;
 
   const datos = {
-    _subject: `Levantando España: ${total} ${total === 1 ? "marca propuesta" : "marcas propuestas"}`,
-    _template: "box",
+    access_key: WEB3FORMS_KEY,
+    subject: `Levantando España: ${total} ${total === 1 ? "marca propuesta" : "marcas propuestas"}`,
+    from_name: "Levantando España",
+    botcheck: false,
     Marcas: lineas.join("\n"),
     "Propone": form.nombre.value.trim() || "(anónimo)",
     "¿Es su marca?": form.propia.checked ? "Sí, alguna es suya" : "No",
   };
-  if (email) { datos.email = email; datos._replyto = email; }
+  if (email) { datos.email = email; datos.replyto = email; }
 
   const boton = $("#boton");
   boton.disabled = true;
@@ -159,7 +164,7 @@ async function enviar(e) {
       body: JSON.stringify(datos),
     });
     const res = await r.json().catch(() => ({}));
-    if (!r.ok || String(res.success) === "false") throw new Error(res.message || r.status);
+    if (!r.ok || res.success !== true) throw new Error(res.message || r.status);
 
     form.reset();
     $("#filas").innerHTML = "";
