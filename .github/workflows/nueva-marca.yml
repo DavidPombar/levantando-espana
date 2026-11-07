@@ -6,10 +6,6 @@ on:
   issues:
     types: [opened, labeled]
 
-concurrency:
-  group: nueva-marca-${{ github.event.issue.number }}
-  cancel-in-progress: true
-
 jobs:
   research:
     # Paso 1: Claude investiga la marca. Solo tiene permisos de LECTURA y
@@ -19,6 +15,9 @@ jobs:
       (github.event.action == 'labeled' && github.event.label.name == 'investigar')
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    # A nivel de job: así un evento descartado por el `if` no cancela la investigación en curso.
+    concurrency:
+      group: nueva-marca-${{ github.event.issue.number }}
     permissions:
       contents: read
       issues: read
