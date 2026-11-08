@@ -740,6 +740,16 @@
       "origen": "Ourense",
       "precio": "€€€",
       "imagen": "img/felix-de-martin.jpg"
+    },
+    {
+      "id": "extinto",
+      "nombre": "Extinto",
+      "web": "https://extinto.es",
+      "categoria": "Papelería y libros",
+      "descripcion": "Cuadernos de dibujo encuadernados a mano uno a uno, en ediciones limitadas y con papeles de calidad",
+      "origen": "Zaragoza",
+      "precio": "€",
+      "imagen": "img/extinto.jpg"
     }
   ]
 }

@@ -132,6 +132,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
 | [Dos Manos](https://www.editorialdosmanos.com) | Editorial independiente de ficción contemporánea y rescates literarios | Barcelona | € |
+| [Extinto](https://extinto.es) | Cuadernos de dibujo encuadernados a mano uno a uno, en ediciones limitadas y con papeles de calidad | Zaragoza | € |
 | [Llibelle](https://llibelle.com) | Libretas y carteras de piel cosidas a mano | Monóvar, Alicante | €€ |
 | [Magician Woman Ink](https://magicianwomanink.com) | Serigrafías hechas a mano: láminas, bolsas y camisetas ilustradas | Barcelona | € |
 | [Pimpiliana](https://pimpilianaeditorial.com) | Editorial infantil ilustrada: las aventuras de la bruja Pamplinas | Madrid | € |
