@@ -52,6 +52,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [MAAR](https://maarfragrances.com) | Perfumes naturales y cosmética a base de algas marinas | Vila-seca, Tarragona | €€ |
 | [Milagritos](https://milagritos.store) | Velas de soja y coco hechas a mano, con caja regalo | Barcelona | € |
 | [Mínima Organics](https://www.minimaorganics.com) | Pasta de dientes en polvo e higiene dental sin residuos | Barcelona | € |
+| [Natvral Lavde](https://natvral-lavde.com) | Dermocosmética natural con probióticos: sérums, brumas y tratamientos faciales y corporales | Elche, Alicante | €€ |
 | [Salad Code](https://www.saladcode.com) | Cosmética vegana con superalimentos: aguacate, espinaca o kiwi | España | €€ |
 
 ## 🏠 Hogar y decoración
@@ -78,6 +79,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 |---|---|---|---|
 | [Cultivo Desterrado](https://cultivodesterrado.es) | Hortalizas de navazo, una huerta costera casi extinta recuperada | Sanlúcar de Barrameda, Cádiz | €€ |
 | [Ineffable Coffee](https://ineffablecoffee.com) | Café de especialidad de los campeones de tueste de España 2024 | Dos Hermanas, Sevilla | € |
+| [Karetta Maluca](https://karettamaluca.com) | Vino con causa, de agricultura ecológica: cada botella apoya un proyecto de conservación de fauna salvaje | Alicante | € |
 | [Miradorio](https://miradorio.com) | Bodega familiar: vinos blancos de la costa cántabra y catas | Ruiloba, Cantabria | € |
 | [The Sangria Spritz](https://www.thesangriaspritz.com) | Sangría espumosa de receta nueva, en botellín o de grifo: clásica, rosa o amarga | España | € |
 | [Vitamina Jota](https://www.vitaminajota.com) | Jamón y paleta ibéricos de la sierra de Huelva, lotes navideños | Huelva | €€€ |

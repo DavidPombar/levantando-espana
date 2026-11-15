@@ -750,6 +750,26 @@
       "origen": "Zaragoza",
       "precio": "€",
       "imagen": "img/extinto.jpg"
+    },
+    {
+      "id": "natvral-lavde",
+      "nombre": "Natvral Lavde",
+      "web": "https://natvral-lavde.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Dermocosmética natural con probióticos: sérums, brumas y tratamientos faciales y corporales",
+      "origen": "Elche, Alicante",
+      "precio": "€€",
+      "imagen": "img/natvral-lavde.jpg"
+    },
+    {
+      "id": "karetta-maluca",
+      "nombre": "Karetta Maluca",
+      "web": "https://karettamaluca.com",
+      "categoria": "Comida y bebida",
+      "descripcion": "Vino con causa, de agricultura ecológica: cada botella apoya un proyecto de conservación de fauna salvaje",
+      "origen": "Alicante",
+      "precio": "€",
+      "imagen": "img/karetta-maluca.jpg"
     }
   ]
 }
