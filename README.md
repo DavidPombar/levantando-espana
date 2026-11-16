@@ -38,6 +38,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Lantana Atelier](https://www.lantanaatelier.com) | Bikinis reversibles de nailon regenerado, hechos en fábricas familiares españolas | Alicante | €€ |
 | [Milé Design](https://miledesign.es) | Moda femenina con diseño propio y firmas seleccionadas | Palencia | €€ |
 | [Parenzo](https://www.parenzo.es) | Bolsos de piel hechos a mano por artesanos de Ubrique | Ubrique, Cádiz | €€€ |
+| [Qosmic](https://qosmicbrand.com) | Bolsos y accesorios atemporales de piel vegana de uva | Alcobendas, Madrid | €€€ |
 | [Romualda](https://romualda.es) | Sombreros reversibles con estampados pintados a mano | Madrid | €€ |
 | [Vocco](https://www.voccoatelier.com) | Bolsas de viaje de lino natural, diseñadas y cosidas a mano | Barcelona | €€€ |
 | [Zahati](https://zahati.com) | Sombreros y bolsos de paja de trigo trenzada a mano | Gata de Gorgos, Alicante | €€ |
@@ -79,6 +80,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
+| [Capa Cárdena](https://capacardena.com) | Carne de vaca morucha de ganadería regenerativa propia | Carrascal del Obispo, Salamanca | €€ |
 | [Cultivo Desterrado](https://cultivodesterrado.es) | Hortalizas de navazo, una huerta costera casi extinta recuperada | Sanlúcar de Barrameda, Cádiz | €€ |
 | [D·Origen Coffee](https://dorigencoffee.es) | Café de especialidad recién tostado, con finca propia en Panamá | El Albir, Alicante | € |
 | [Ineffable Coffee](https://ineffablecoffee.com) | Café de especialidad de los campeones de tueste de España 2024 | Dos Hermanas, Sevilla | € |
