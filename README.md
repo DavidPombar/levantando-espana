@@ -49,11 +49,13 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Banbu](https://banbu.es) | Cosmética sólida, vegana y sin plástico, certificada ecológica | Torrelavega, Cantabria | € |
 | [Dehesia](https://dehesia.com) | Cosmética BIO con plantas medicinales de la dehesa extremeña | Cáceres | € |
 | [Jabonalia](https://jabonalia.es) | Jabones y champús sólidos artesanos, sin plásticos | Barcelona | € |
+| [Luisa](https://weareluisa.com) | Un limpiador de doble limpieza con hierba luisa y enzimas de papaya, vegano y pensado para simplificar la rutina | Allariz, Ourense | €€ |
 | [MAAR](https://maarfragrances.com) | Perfumes naturales y cosmética a base de algas marinas | Vila-seca, Tarragona | €€ |
 | [Milagritos](https://milagritos.store) | Velas de soja y coco hechas a mano, con caja regalo | Barcelona | € |
 | [Mínima Organics](https://www.minimaorganics.com) | Pasta de dientes en polvo e higiene dental sin residuos | Barcelona | € |
 | [Natvral Lavde](https://natvral-lavde.com) | Dermocosmética natural con probióticos: sérums, brumas y tratamientos faciales y corporales | Elche, Alicante | €€ |
 | [Salad Code](https://www.saladcode.com) | Cosmética vegana con superalimentos: aguacate, espinaca o kiwi | España | €€ |
+| [Såper](https://www.saper.es) | Cosmética ecológica certificada y vegana: sérums y cremas faciales para piel sensible, hechos en su laboratorio | Uceda, Guadalajara | €€ |
 
 ## 🏠 Hogar y decoración
 
