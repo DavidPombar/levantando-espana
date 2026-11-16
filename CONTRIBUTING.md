@@ -37,5 +37,6 @@ Todas las marcas viven en [`site/marcas.json`](site/marcas.json): de ahí salen 
    - **ancha** (opcional, `true`): la ficha ocupa dos columnas. Úsalo con fotos apaisadas.
 
 2. Añade una foto del producto en `site/img/` (JPG, máximo 900 px de lado y unos 150 KB), con permiso de la marca.
-3. Regenera el README: `python3 scripts/generar_readme.py`
-4. Sin enlaces de afiliado ni parámetros de tracking. Una marca por PR, por favor.
+3. Baraja el catálogo y cambia la portada: `python3 scripts/barajar_marcas.py`. Así todas las marcas tienen las mismas oportunidades de verse arriba.
+4. Regenera el README: `python3 scripts/generar_readme.py`
+5. Sin enlaces de afiliado ni parámetros de tracking. Una marca por PR, por favor.
