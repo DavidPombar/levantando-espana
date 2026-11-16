@@ -780,6 +780,16 @@
       "origen": "Uceda, Guadalajara",
       "precio": "€€",
       "imagen": "img/saper.jpg"
+    },
+    {
+      "id": "luisa",
+      "nombre": "Luisa",
+      "web": "https://weareluisa.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Un limpiador de doble limpieza con hierba luisa y enzimas de papaya, vegano y pensado para simplificar la rutina",
+      "origen": "Allariz, Ourense",
+      "precio": "€€",
+      "imagen": "img/luisa.jpg"
     }
   ]
 }
