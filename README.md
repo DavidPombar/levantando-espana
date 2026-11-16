@@ -54,6 +54,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Mínima Organics](https://www.minimaorganics.com) | Pasta de dientes en polvo e higiene dental sin residuos | Barcelona | € |
 | [Natvral Lavde](https://natvral-lavde.com) | Dermocosmética natural con probióticos: sérums, brumas y tratamientos faciales y corporales | Elche, Alicante | €€ |
 | [Salad Code](https://www.saladcode.com) | Cosmética vegana con superalimentos: aguacate, espinaca o kiwi | España | €€ |
+| [Såper](https://www.saper.es) | Cosmética ecológica certificada y vegana: sérums y cremas faciales para piel sensible, hechos en su laboratorio | Uceda, Guadalajara | €€ |
 
 ## 🏠 Hogar y decoración
 
