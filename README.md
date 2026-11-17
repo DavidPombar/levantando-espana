@@ -29,6 +29,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
+| [Companion Denim](https://companiondenim.com) | Vaqueros a medida de tela selvedge, hechos en su taller | Barcelona | €€€ |
 | [Félix de Martín](https://www.felixdemartin.com) | Sombreros, turbantes y tocados hechos a mano en su taller, para novia, invitada y hombre | Ourense | €€€ |
 | [Gamuza](https://gamuzacraft.com) | Bolsos y objetos de cuero hechos con pieles que la industria descarta | España | €€ |
 | [Huemul Leather](https://www.huemulleather.com) | Bolsos de cuero de curtido vegetal hechos en su taller | Mallorca | €€€ |
@@ -47,6 +48,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
+| [Alma Secret](https://www.almasecret.com) | Cosmética natural y ecológica que fabrican ellos mismos | Librilla, Murcia | € |
 | [Banbu](https://banbu.es) | Cosmética sólida, vegana y sin plástico, certificada ecológica | Torrelavega, Cantabria | € |
 | [Dehesia](https://dehesia.com) | Cosmética BIO con plantas medicinales de la dehesa extremeña | Cáceres | € |
 | [Jabonalia](https://jabonalia.es) | Jabones y champús sólidos artesanos, sin plásticos | Barcelona | € |
@@ -65,11 +67,14 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Adarbakar](https://adarbakar.com) | Piezas únicas de cerámica hechas a mano: vajilla, lámparas y objetos | Barcelona | €€€ |
 | [Alex Frosum](https://alexfrosum.com) | Vidrio soplado a mano en su taller: copas, jarras y jarrones | Barcelona | €€€ |
 | [ArteMesa](https://artemesa.es) | Vajilla de cerámica artesanal hecha a mano, pieza a pieza | España | €€ |
+| [Centro Cerámico Talavera](https://www.ceramicatalavera.es) | Cerámica artesanal de Talavera hecha en su taller desde 1992 | Talavera de la Reina, Toledo | €€€ |
 | [Cocol](https://cocolmadrid.es) | Artesanía tradicional española reinterpretada: cerámica, botijos, abanicos y cestería | Madrid | €€ |
 | [dE.LENZO](https://delenzo.es) | Ropa de hogar de lino y mantas de merino cosidas en taller | Alcoy, Alicante | €€ |
 | [El Obrador de Momo](https://www.elobradordemomo.com) | Cerámica de autor hecha y pintada a mano | Montemayor del Río, Salamanca | €€ |
 | [Eturel](https://eturel.com) | Decoración artesanal con cerámica y textiles de talleres tradicionales | Madrid | €€ |
+| [GOZO](https://holagozo.com) | Flores y plantas a domicilio, y tú eliges el día | Sant Boi de Llobregat, Barcelona | €€ |
 | [Intre](https://intre.es) | Objetos cotidianos de diseño: tazas ilustradas, cuencos y más | Meira, Lugo | €€ |
+| [Klitie](https://klitie.com) | Velas artesanales de colza, sets regalo y talleres florales | Leganés, Madrid | €€ |
 | [Mantas de Grazalema](https://www.mantasdegrazalema.com) | Mantas, ponchos y bufandas de lana tejidos en el telar del pueblo | Grazalema, Cádiz | €€€ |
 | [Mestas](https://mestas.es) | Mantas de sofá de lana merina trashumante, 100% hechas en España | España | €€€ |
 | [Palopalú](https://palopalu.com) | Juguetes de madera y objetos de decoración hechos a mano | Bilbao | €€ |
@@ -81,11 +86,14 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
 | [Capa Cárdena](https://capacardena.com) | Carne de vaca morucha de ganadería regenerativa propia | Carrascal del Obispo, Salamanca | €€ |
+| [Cobardes y Gallinas](https://www.cobardesygallinas.com) | Huevos camperos a domicilio y packs regalo con aceite o vermut | Las Rozas, Madrid | €€ |
 | [Cultivo Desterrado](https://cultivodesterrado.es) | Hortalizas de navazo, una huerta costera casi extinta recuperada | Sanlúcar de Barrameda, Cádiz | €€ |
 | [D·Origen Coffee](https://dorigencoffee.es) | Café de especialidad recién tostado, con finca propia en Panamá | El Albir, Alicante | € |
+| [Floco Coffee](https://flococoffee.com) | Café de especialidad tostado de forma natural, y tés premium | Badajoz | € |
 | [Ineffable Coffee](https://ineffablecoffee.com) | Café de especialidad de los campeones de tueste de España 2024 | Dos Hermanas, Sevilla | € |
 | [Karetta Maluca](https://karettamaluca.com) | Vino con causa, de agricultura ecológica: cada botella apoya un proyecto de conservación de fauna salvaje | Alicante | € |
 | [Miradorio](https://miradorio.com) | Bodega familiar: vinos blancos de la costa cántabra y catas | Ruiloba, Cantabria | € |
+| [Señorío de Montanera](https://tienda.senorio.es) | Jamón y embutidos ibéricos de bellota de la dehesa extremeña | Badajoz | €€€ |
 | [The Sangria Spritz](https://www.thesangriaspritz.com) | Sangría espumosa de receta nueva, en botellín o de grifo: clásica, rosa o amarga | España | € |
 | [Vitamina Jota](https://www.vitaminajota.com) | Jamón y paleta ibéricos de la sierra de Huelva, lotes navideños | Huelva | €€€ |
 
@@ -101,6 +109,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [La Vidriola](https://lavidriola.com) | Broches y collares de acrílico cortados y pintados a mano | Valencia | €€ |
 | [Luz de Nehca](https://luzdenehca.com) | Joyería artesanal con metales reciclados y certificados | España | €€ |
 | [Mar Montenegro](https://marmontenegro.com) | Joyas de porcelana hechas a mano | España | €€ |
+| [Margui Brand](https://marguibrand.com) | Joyas mediterráneas hechas a mano una a una | Málaga | €€ |
 | [Paula Yera](https://paulayera.com) | Joyería de autor en plata con piedras en bruto | Zaragoza | €€ |
 | [Riera Joies](https://www.rierajoies.com) | Joyas de plata con vidrio de mar, hechas a mano | Menorca | €€ |
 | [Srta. Bolitas](https://www.srtabolitas.com) | Collares, pulseras y pendientes hechos a mano con piedras naturales y cristal, y atrapaluces para la ventana | Barcelona | € |
@@ -114,6 +123,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 |---|---|---|---|
 | [Alhamas](https://alhamas.es) | Alpargatas de yute cosidas a mano en la cuna riojana | Cervera del Río Alhama, La Rioja | €€ |
 | [Canttinela](https://canttinela.com) | Zapatillas artesanas hechas con calma en un pueblo de Huelva | Huelva | €€ |
+| [Cristian Morillo](https://www.instagram.com/mc_cristianmorillo/) | Zapatos, bolsos y carteras artesanales hechos a medida | Benifaió, Valencia | €€€ |
 | [Magro Cardona](https://www.magrocardona.com) | Botas y zapatos de zapatería artesanal con diseño actual | Madrid | €€€ |
 | [Manolito Basics](https://manolitobasics.com) | Mocasines ligeros de ante, hechos a mano | España | €€€ |
 | [Mibo](https://www.abarcasmenorquinas.com) | Avarcas menorquinas hechas en la isla desde 1998 | Es Migjorn Gran, Menorca | €€ |
@@ -155,6 +165,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
+| [Secco](https://seccobrand.com) | Palas de pádel de carbono hechas a mano en España | Toledo | €€€ |
 | [The Pichichi Company](https://www.thepichichicompany.com) | Muñecos de futbolín pintados a mano, personalizables con tu equipo | España | €€ |
 <!-- marcas:fin -->
 
