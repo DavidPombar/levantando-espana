@@ -29,8 +29,11 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
+| [Capitán Denim](https://capitandenim.com) | Vaqueros sostenibles fabricados en su propia fábrica de Albacete | Madrigueras, Albacete | €€ |
 | [Clotsy](https://www.clotsybrand.com) | Ropa y calzado sostenible y vegano de producción local | Castellón | €€€ |
 | [Companion Denim](https://companiondenim.com) | Vaqueros a medida de tela selvedge, hechos en su taller | Barcelona | €€€ |
+| [Crabs Company](https://crabscompany.com) | Bañadores estampados de fantasía, camisetas y gorras para el verano | Mallorca | €€ |
+| [Edmmond Studios](https://edmmond.com) | Básicos masculinos contemporáneos pensados para durar | Madrid | €€€ |
 | [Félix de Martín](https://www.felixdemartin.com) | Sombreros, turbantes y tocados hechos a mano en su taller, para novia, invitada y hombre | Ourense | €€€ |
 | [Gamuza](https://gamuzacraft.com) | Bolsos y objetos de cuero hechos con pieles que la industria descarta | España | €€ |
 | [Huemul Leather](https://www.huemulleather.com) | Bolsos de cuero de curtido vegetal hechos en su taller | Mallorca | €€€ |
@@ -39,9 +42,13 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Laia Alen](https://www.laiaalen.com) | Bolsos y punto de colores, horas de trabajo artesanal por pieza | Cataluña | €€€ |
 | [Lantana Atelier](https://www.lantanaatelier.com) | Bikinis reversibles de nailon regenerado, hechos en fábricas familiares españolas | Alicante | €€ |
 | [Milé Design](https://miledesign.es) | Moda femenina con diseño propio y firmas seleccionadas | Palencia | €€ |
+| [Minimalism](https://minimalismbrand.com) | Básicos sostenibles sin logo, de algodón orgánico y lana reciclada | Madrid | €€ |
 | [Parenzo](https://www.parenzo.es) | Bolsos de piel hechos a mano por artesanos de Ubrique | Ubrique, Cádiz | €€€ |
 | [Qosmic](https://qosmicbrand.com) | Bolsos y accesorios atemporales de piel vegana de uva | Alcobendas, Madrid | €€€ |
 | [Romualda](https://romualda.es) | Sombreros reversibles con estampados pintados a mano | Madrid | €€ |
+| [Sepiia](https://sepiia.com) | Ropa inteligente que no se mancha, no se arruga ni huele | Madrid | €€€ |
+| [Sutran Technology](https://sutrantechnology.com) | Camisetas y camisas antisudor y antiolor con tecnología patentada | Cabrera de Mar, Barcelona | €€ |
+| [Tiwel](https://tiwel.es) | Ropa streetwear y casual con su icónico peón de ajedrez | San Fernando de Henares, Madrid | €€ |
 | [Vocco](https://www.voccoatelier.com) | Bolsas de viaje de lino natural, diseñadas y cosidas a mano | Barcelona | €€€ |
 | [Zahati](https://zahati.com) | Sombreros y bolsos de paja de trigo trenzada a mano | Gata de Gorgos, Alicante | €€ |
 
@@ -52,6 +59,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Alma Secret](https://www.almasecret.com) | Cosmética natural y ecológica que fabrican ellos mismos | Librilla, Murcia | € |
 | [Banbu](https://banbu.es) | Cosmética sólida, vegana y sin plástico, certificada ecológica | Torrelavega, Cantabria | € |
 | [Dehesia](https://dehesia.com) | Cosmética BIO con plantas medicinales de la dehesa extremeña | Cáceres | € |
+| [IDEimperfecta](https://www.ideimperfecta.com) | Cosmética natural, sólida y artesana hecha en Valladolid | Valladolid | € |
 | [Jabonalia](https://jabonalia.es) | Jabones y champús sólidos artesanos, sin plásticos | Barcelona | € |
 | [Luisa](https://weareluisa.com) | Un limpiador de doble limpieza con hierba luisa y enzimas de papaya, vegano y pensado para simplificar la rutina | Allariz, Ourense | €€ |
 | [MAAR](https://maarfragrances.com) | Perfumes naturales y cosmética a base de algas marinas | Vila-seca, Tarragona | €€ |
@@ -68,6 +76,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Adarbakar](https://adarbakar.com) | Piezas únicas de cerámica hechas a mano: vajilla, lámparas y objetos | Barcelona | €€€ |
 | [Alex Frosum](https://alexfrosum.com) | Vidrio soplado a mano en su taller: copas, jarras y jarrones | Barcelona | €€€ |
 | [ArteMesa](https://artemesa.es) | Vajilla de cerámica artesanal hecha a mano, pieza a pieza | España | €€ |
+| [Book & Glow](https://bookandglow.com) | Velas aromáticas veganas vertidas a mano una a una | San Sebastián, Gipuzkoa | € |
 | [Centro Cerámico Talavera](https://www.ceramicatalavera.es) | Cerámica artesanal de Talavera hecha en su taller desde 1992 | Talavera de la Reina, Toledo | €€€ |
 | [Cocol](https://cocolmadrid.es) | Artesanía tradicional española reinterpretada: cerámica, botijos, abanicos y cestería | Madrid | €€ |
 | [dE.LENZO](https://delenzo.es) | Ropa de hogar de lino y mantas de merino cosidas en taller | Alcoy, Alicante | €€ |
@@ -104,6 +113,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
 | [Andrés Gallardo](https://andresgallardo.com) | Joyas y bolsos con piezas de porcelana modeladas a mano | Barcelona | €€€ |
+| [Antiqüa](https://antiqua.store) | Joyería en oro de 18 quilates y piedras preciosas | Madrid | €€€ |
 | [Ikkelele](https://ikkelele.com) | Joyas únicas de inspiración étnica, hechas a mano | Elche, Alicante | €€ |
 | [Juia Jewels](https://juiajewels.com) | Joyería ética en plata y oro Fairmined, hecha en su taller de Sant Andreu | Barcelona | €€€ |
 | [Kett](https://www.kettbrand.com) | Collares de piedras y abalorios hechos a mano | España | €€ |
@@ -134,6 +144,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Micuir](https://micuir.com) | Botas y zapatos de piel hechos a mano, diseñados por Elena Peña | Madrid | €€€ |
 | [Naguisa](https://naguisa.com) | Zapatos y alpargatas de mujer con suela de yute | Sant Just Desvern, Barcelona | €€€ |
 | [Pitusas](https://www.pitusas.es) | Alpargatas y espadrilles hechas a mano | España | €€ |
+| [Pompeii](https://pompeiibrand.com) | Zapatillas y ropa de streetwear refinado nacidas en Madrid | Madrid | €€€ |
 | [Shuu](https://www.shuubarefoot.com) | Calzado barefoot elegante hecho a mano en España | Valencia | €€€ |
 | [Timpers](https://www.timpersbrand.com) | Zapatillas diseñadas por personas ciegas | Valencia | €€ |
 
