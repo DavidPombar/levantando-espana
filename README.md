@@ -29,6 +29,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
+| [Clotsy](https://www.clotsybrand.com) | Ropa y calzado sostenible y vegano de producción local | Castellón | €€€ |
 | [Companion Denim](https://companiondenim.com) | Vaqueros a medida de tela selvedge, hechos en su taller | Barcelona | €€€ |
 | [Félix de Martín](https://www.felixdemartin.com) | Sombreros, turbantes y tocados hechos a mano en su taller, para novia, invitada y hombre | Ourense | €€€ |
 | [Gamuza](https://gamuzacraft.com) | Bolsos y objetos de cuero hechos con pieles que la industria descarta | España | €€ |
