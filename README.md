@@ -52,6 +52,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Alma Secret](https://www.almasecret.com) | Cosmética natural y ecológica que fabrican ellos mismos | Librilla, Murcia | € |
 | [Banbu](https://banbu.es) | Cosmética sólida, vegana y sin plástico, certificada ecológica | Torrelavega, Cantabria | € |
 | [Dehesia](https://dehesia.com) | Cosmética BIO con plantas medicinales de la dehesa extremeña | Cáceres | € |
+| [IDEimperfecta](https://www.ideimperfecta.com) | Cosmética natural, sólida y artesana hecha en Valladolid | Valladolid | € |
 | [Jabonalia](https://jabonalia.es) | Jabones y champús sólidos artesanos, sin plásticos | Barcelona | € |
 | [Luisa](https://weareluisa.com) | Un limpiador de doble limpieza con hierba luisa y enzimas de papaya, vegano y pensado para simplificar la rutina | Allariz, Ourense | €€ |
 | [MAAR](https://maarfragrances.com) | Perfumes naturales y cosmética a base de algas marinas | Vila-seca, Tarragona | €€ |
@@ -68,6 +69,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Adarbakar](https://adarbakar.com) | Piezas únicas de cerámica hechas a mano: vajilla, lámparas y objetos | Barcelona | €€€ |
 | [Alex Frosum](https://alexfrosum.com) | Vidrio soplado a mano en su taller: copas, jarras y jarrones | Barcelona | €€€ |
 | [ArteMesa](https://artemesa.es) | Vajilla de cerámica artesanal hecha a mano, pieza a pieza | España | €€ |
+| [Book & Glow](https://bookandglow.com) | Velas aromáticas veganas vertidas a mano una a una | San Sebastián, Gipuzkoa | € |
 | [Centro Cerámico Talavera](https://www.ceramicatalavera.es) | Cerámica artesanal de Talavera hecha en su taller desde 1992 | Talavera de la Reina, Toledo | €€€ |
 | [Cocol](https://cocolmadrid.es) | Artesanía tradicional española reinterpretada: cerámica, botijos, abanicos y cestería | Madrid | €€ |
 | [dE.LENZO](https://delenzo.es) | Ropa de hogar de lino y mantas de merino cosidas en taller | Alcoy, Alicante | €€ |
@@ -104,6 +106,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
 | [Andrés Gallardo](https://andresgallardo.com) | Joyas y bolsos con piezas de porcelana modeladas a mano | Barcelona | €€€ |
+| [Antiqüa](https://antiqua.store) | Joyería en oro de 18 quilates y piedras preciosas | Madrid | €€€ |
 | [Ikkelele](https://ikkelele.com) | Joyas únicas de inspiración étnica, hechas a mano | Elche, Alicante | €€ |
 | [Juia Jewels](https://juiajewels.com) | Joyería ética en plata y oro Fairmined, hecha en su taller de Sant Andreu | Barcelona | €€€ |
 | [Kett](https://www.kettbrand.com) | Collares de piedras y abalorios hechos a mano | España | €€ |
