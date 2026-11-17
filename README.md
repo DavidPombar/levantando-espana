@@ -69,6 +69,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [dE.LENZO](https://delenzo.es) | Ropa de hogar de lino y mantas de merino cosidas en taller | Alcoy, Alicante | €€ |
 | [El Obrador de Momo](https://www.elobradordemomo.com) | Cerámica de autor hecha y pintada a mano | Montemayor del Río, Salamanca | €€ |
 | [Eturel](https://eturel.com) | Decoración artesanal con cerámica y textiles de talleres tradicionales | Madrid | €€ |
+| [Fenghi](https://fenghi.es) | Mezclas de aceites esenciales puros y ecológicos para difundir en casa | Valldoreix, Barcelona | €€ |
 | [Intre](https://intre.es) | Objetos cotidianos de diseño: tazas ilustradas, cuencos y más | Meira, Lugo | €€ |
 | [Mantas de Grazalema](https://www.mantasdegrazalema.com) | Mantas, ponchos y bufandas de lana tejidos en el telar del pueblo | Grazalema, Cádiz | €€€ |
 | [Mestas](https://mestas.es) | Mantas de sofá de lana merina trashumante, 100% hechas en España | España | €€€ |
