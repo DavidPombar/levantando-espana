@@ -29,11 +29,13 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
+| [Aziza Puch](https://azizapuch.com/) | Pañuelos y fulares de seda natural pintados a mano | Meano, Navarra | €€ |
 | [Capitán Denim](https://capitandenim.com) | Vaqueros sostenibles fabricados en su propia fábrica de Albacete | Madrigueras, Albacete | €€ |
 | [Clotsy](https://www.clotsybrand.com) | Ropa y calzado sostenible y vegano de producción local | Castellón | €€€ |
 | [Companion Denim](https://companiondenim.com) | Vaqueros a medida de tela selvedge, hechos en su taller | Barcelona | €€€ |
 | [Crabs Company](https://crabscompany.com) | Bañadores estampados de fantasía, camisetas y gorras para el verano | Mallorca | €€ |
 | [Edmmond Studios](https://edmmond.com) | Básicos masculinos contemporáneos pensados para durar | Madrid | €€€ |
+| [Flowel](https://flowelbrand.com/) | Toallas y pareos de playa con materiales reciclados | Alicante | € |
 | [Félix de Martín](https://www.felixdemartin.com) | Sombreros, turbantes y tocados hechos a mano en su taller, para novia, invitada y hombre | Ourense | €€€ |
 | [Gamuza](https://gamuzacraft.com) | Bolsos y objetos de cuero hechos con pieles que la industria descarta | España | €€ |
 | [Herencia Handmade](https://www.instagram.com/herencia_handmadewithlove/) | Chales y prendas de croché tejidas a mano por encargo | España | €€ |
@@ -45,6 +47,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Milé Design](https://miledesign.es) | Moda femenina con diseño propio y firmas seleccionadas | Palencia | €€ |
 | [Minimalism](https://minimalismbrand.com) | Básicos sostenibles sin logo, de algodón orgánico y lana reciclada | Madrid | €€ |
 | [OLD'S](https://oldsspain.com/) | Ropa clásica de hombre con diseños atemporales | Madrid | €€ |
+| [Oobuka](https://www.oobuka.com/) | Bolsos, mochilas y accesorios de piel hechos a mano | Valencia | €€€ |
 | [Parenzo](https://www.parenzo.es) | Bolsos de piel hechos a mano por artesanos de Ubrique | Ubrique, Cádiz | €€€ |
 | [Qosmic](https://qosmicbrand.com) | Bolsos y accesorios atemporales de piel vegana de uva | Alcobendas, Madrid | €€€ |
 | [Romualda](https://romualda.es) | Sombreros reversibles con estampados pintados a mano | Madrid | €€ |
@@ -52,6 +55,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Sutran Technology](https://sutrantechnology.com) | Camisetas y camisas antisudor y antiolor con tecnología patentada | Cabrera de Mar, Barcelona | €€ |
 | [Tiwel](https://tiwel.es) | Ropa streetwear y casual con su icónico peón de ajedrez | San Fernando de Henares, Madrid | €€ |
 | [Vocco](https://www.voccoatelier.com) | Bolsas de viaje de lino natural, diseñadas y cosidas a mano | Barcelona | €€€ |
+| [Wool4Life](https://wool4.life/) | Jerséis, gorros y conjuntos de lana merina trashumante local | Mota del Cuervo, Cuenca | €€€ |
 | [Zahati](https://zahati.com) | Sombreros y bolsos de paja de trigo trenzada a mano | Gata de Gorgos, Alicante | €€ |
 
 ## 💄 Cosmética y cuidado personal
@@ -72,6 +76,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Milagritos](https://milagritos.store) | Velas de soja y coco hechas a mano, con caja regalo | Barcelona | € |
 | [Mínima Organics](https://www.minimaorganics.com) | Pasta de dientes en polvo e higiene dental sin residuos | Barcelona | € |
 | [Natvral Lavde](https://natvral-lavde.com) | Dermocosmética natural con probióticos: sérums, brumas y tratamientos faciales y corporales | Elche, Alicante | €€ |
+| [Ownia Cosmetics](https://owniacosmetics.com/) | Cosmética facial para piel sensible basada en el microbioma | Madrid | €€ |
 | [Salad Code](https://www.saladcode.com) | Cosmética vegana con superalimentos: aguacate, espinaca o kiwi | España | €€ |
 | [Såper](https://www.saper.es) | Cosmética ecológica certificada y vegana: sérums y cremas faciales para piel sensible, hechos en su laboratorio | Uceda, Guadalajara | €€ |
 
@@ -94,6 +99,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Intre](https://intre.es) | Objetos cotidianos de diseño: tazas ilustradas, cuencos y más | Meira, Lugo | €€ |
 | [Klitie](https://klitie.com) | Velas artesanales de colza, sets regalo y talleres florales | Leganés, Madrid | €€ |
 | [Mantas de Grazalema](https://www.mantasdegrazalema.com) | Mantas, ponchos y bufandas de lana tejidos en el telar del pueblo | Grazalema, Cádiz | €€€ |
+| [Mendi](https://www.escobasmendi.com/) | Escobas de mijo hechas a mano por cuatro generaciones | Valtierra, Navarra | € |
 | [Mestas](https://mestas.es) | Mantas de sofá de lana merina trashumante, 100% hechas en España | España | €€€ |
 | [Palopalú](https://palopalu.com) | Juguetes de madera y objetos de decoración hechos a mano | Bilbao | €€ |
 | [Teixidors](https://www.teixidors.com) | Mantas, plaids y fulares tejidos a mano en telar desde 1983 | Terrassa, Barcelona | €€€ |
@@ -105,12 +111,14 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
+| [Canigooil](https://www.canigooil.com/) | Aceites aromatizados, salsas y confituras del Empordà | Agullana, Girona | € |
 | [Capa Cárdena](https://capacardena.com) | Carne de vaca morucha de ganadería regenerativa propia | Carrascal del Obispo, Salamanca | €€ |
 | [Casa de Mendoza](https://casademendoza.es/) | Aceite de oliva virgen extra ecológico de una finca manchega | Socuéllamos, Ciudad Real | € |
 | [Cobardes y Gallinas](https://www.cobardesygallinas.com) | Huevos camperos a domicilio y packs regalo con aceite o vermut | Las Rozas, Madrid | €€ |
 | [Cultivo Desterrado](https://cultivodesterrado.es) | Hortalizas de navazo, una huerta costera casi extinta recuperada | Sanlúcar de Barrameda, Cádiz | €€ |
 | [D·Origen Coffee](https://dorigencoffee.es) | Café de especialidad recién tostado, con finca propia en Panamá | El Albir, Alicante | € |
 | [Floco Coffee](https://flococoffee.com) | Café de especialidad tostado de forma natural, y tés premium | Badajoz | € |
+| [Gardeniers](https://organic.gardeniers.es/) | Cremas y conservas ecológicas hechas por personas con discapacidad | Zaragoza | € |
 | [Ineffable Coffee](https://ineffablecoffee.com) | Café de especialidad de los campeones de tueste de España 2024 | Dos Hermanas, Sevilla | € |
 | [Karetta Maluca](https://karettamaluca.com) | Vino con causa, de agricultura ecológica: cada botella apoya un proyecto de conservación de fauna salvaje | Alicante | € |
 | [La Despensa del Cano](https://despensaelcano.es/) | Jamones y embutidos de la Sierra de Aracena, directos del productor | Galaroza, Huelva | €€€ |
@@ -139,6 +147,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Luz de Nehca](https://luzdenehca.com) | Joyería artesanal con metales reciclados y certificados | España | €€ |
 | [Mar Montenegro](https://marmontenegro.com) | Joyas de porcelana hechas a mano | España | €€ |
 | [Margui Brand](https://marguibrand.com) | Joyas mediterráneas hechas a mano una a una | Málaga | €€ |
+| [Mitumi](https://mitumijoyas.com/) | Pendientes de diseño propio superligeros y coloridos | Valencia | €€ |
 | [Paula Yera](https://paulayera.com) | Joyería de autor en plata con piedras en bruto | Zaragoza | €€ |
 | [Riera Joies](https://www.rierajoies.com) | Joyas de plata con vidrio de mar, hechas a mano | Menorca | €€ |
 | [Segarra Joyeros](https://segarrajoyeros.com) | Joyería familiar desde 1939 con piezas por encargo hechas a mano | Valencia | €€€ |
@@ -183,6 +192,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
+| [Collapaper](https://collapaper.com/) | Calendarios, agendas y papelería impresos con materiales bioéticos | Valencia | € |
 | [Dos Manos](https://www.editorialdosmanos.com) | Editorial independiente de ficción contemporánea y rescates literarios | Barcelona | € |
 | [Extinto](https://extinto.es) | Cuadernos de dibujo encuadernados a mano uno a uno, en ediciones limitadas y con papeles de calidad | Zaragoza | € |
 | [Llibelle](https://llibelle.com) | Libretas y carteras de piel cosidas a mano | Monóvar, Alicante | €€ |
@@ -208,6 +218,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [TColors](https://tcolors.net/) | Pinturas para manualidades de una cooperativa de inclusión laboral | Barcelona | € |
 | [Teresa Rossell](https://www.instagram.com/teresarossell.artis/) | Ilustraciones originales a lápiz y tinta de flores y santos | Santillana del Mar, Cantabria | €€ |
 | [The Pichichi Company](https://www.thepichichicompany.com) | Muñecos de futbolín pintados a mano, personalizables con tu equipo | España | €€ |
+| [Wooldreamers](https://wooldreamers.com/) | Hilo y telas de lana de rebaños locales, hilada en casa | Mota del Cuervo, Cuenca | € |
 <!-- marcas:fin -->
 
 ---
