@@ -59,10 +59,14 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Alma Secret](https://www.almasecret.com) | Cosmética natural y ecológica que fabrican ellos mismos | Librilla, Murcia | € |
 | [Banbu](https://banbu.es) | Cosmética sólida, vegana y sin plástico, certificada ecológica | Torrelavega, Cantabria | € |
 | [Dehesia](https://dehesia.com) | Cosmética BIO con plantas medicinales de la dehesa extremeña | Cáceres | € |
+| [Hērbera](https://www.cosmeticsherbera.com) | Dermocosmética botánica formulada y fabricada en su laboratorio propio | Madrid | €€ |
 | [IDEimperfecta](https://www.ideimperfecta.com) | Cosmética natural, sólida y artesana hecha en Valladolid | Valladolid | € |
 | [Jabonalia](https://jabonalia.es) | Jabones y champús sólidos artesanos, sin plásticos | Barcelona | € |
+| [Labei](https://labeisosmetics.com) | Cosmética natural y sostenible desarrollada en su propio laboratorio | Oiartzun, Gipuzkoa | €€€ |
 | [Luisa](https://weareluisa.com) | Un limpiador de doble limpieza con hierba luisa y enzimas de papaya, vegano y pensado para simplificar la rutina | Allariz, Ourense | €€ |
 | [MAAR](https://maarfragrances.com) | Perfumes naturales y cosmética a base de algas marinas | Vila-seca, Tarragona | €€ |
+| [Maminat](https://maminat.com) | Cosmética natural y ecológica con recargas para reducir envases | Valencia | € |
+| [Matarrania](https://matarrania.com) | Cosmética ecológica certificada 100 % bio y de kilómetro cero | Peñarroya de Tastavins, Teruel | € |
 | [Milagritos](https://milagritos.store) | Velas de soja y coco hechas a mano, con caja regalo | Barcelona | € |
 | [Mínima Organics](https://www.minimaorganics.com) | Pasta de dientes en polvo e higiene dental sin residuos | Barcelona | € |
 | [Natvral Lavde](https://natvral-lavde.com) | Dermocosmética natural con probióticos: sérums, brumas y tratamientos faciales y corporales | Elche, Alicante | €€ |
@@ -88,6 +92,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Mantas de Grazalema](https://www.mantasdegrazalema.com) | Mantas, ponchos y bufandas de lana tejidos en el telar del pueblo | Grazalema, Cádiz | €€€ |
 | [Mestas](https://mestas.es) | Mantas de sofá de lana merina trashumante, 100% hechas en España | España | €€€ |
 | [Palopalú](https://palopalu.com) | Juguetes de madera y objetos de decoración hechos a mano | Bilbao | €€ |
+| [Teixidors](https://www.teixidors.com) | Mantas, plaids y fulares tejidos a mano en telar desde 1983 | Terrassa, Barcelona | €€€ |
 | [Tierra Cocida](https://www.alfartierracocida.com) | Vajilla de cerámica pintada a mano: platos ralladores, aceiteras y cuencos | Málaga | €€ |
 | [Tiroriro Home](https://tirorirohome.com) | Cabeceros, almohadones y pantallas tapizados a mano a medida | Boadilla del Monte, Madrid | €€ |
 | [Woodendot](https://woodendot.com) | Muebles y accesorios de madera diseñados en Madrid y fabricados en Íscar | Madrid | €€€ |
@@ -104,9 +109,11 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Ineffable Coffee](https://ineffablecoffee.com) | Café de especialidad de los campeones de tueste de España 2024 | Dos Hermanas, Sevilla | € |
 | [Karetta Maluca](https://karettamaluca.com) | Vino con causa, de agricultura ecológica: cada botella apoya un proyecto de conservación de fauna salvaje | Alicante | € |
 | [Miradorio](https://miradorio.com) | Bodega familiar: vinos blancos de la costa cántabra y catas | Ruiloba, Cantabria | € |
+| [Quesos Lavega](https://www.quesoslavega.com) | Quesos artesanos de oveja y vaca con leche de Castilla y León | Moslares de la Vega, Palencia | € |
 | [Señorío de Montanera](https://tienda.senorio.es) | Jamón y embutidos ibéricos de bellota de la dehesa extremeña | Badajoz | €€€ |
 | [The Sangria Spritz](https://www.thesangriaspritz.com) | Sangría espumosa de receta nueva, en botellín o de grifo: clásica, rosa o amarga | España | € |
 | [Vitamina Jota](https://www.vitaminajota.com) | Jamón y paleta ibéricos de la sierra de Huelva, lotes navideños | Huelva | €€€ |
+| [Xixarito](https://bodegasbaron.es/pages/gama-xixarito) | Vinos de Jerez y manzanilla de Bodegas Barón con larga crianza | Sanlúcar de Barrameda, Cádiz | € |
 
 ## 💍 Joyería
 
@@ -183,6 +190,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 |---|---|---|---|
 | [dLana](https://dlana.es) | Lana merina española para tejer, hilada en su propio taller | Arroyo de Cuéllar, Segovia | € |
 | [Secco](https://seccobrand.com) | Palas de pádel de carbono hechas a mano en España | Toledo | €€€ |
+| [Teresa Rossell](https://www.instagram.com/teresarossell.artis/) | Ilustraciones originales a lápiz y tinta de flores y santos | Santillana del Mar, Cantabria | €€ |
 | [The Pichichi Company](https://www.thepichichicompany.com) | Muñecos de futbolín pintados a mano, personalizables con tu equipo | España | €€ |
 <!-- marcas:fin -->
 
