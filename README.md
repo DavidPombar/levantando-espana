@@ -29,6 +29,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
+| [Clotsy](https://www.clotsybrand.com) | Ropa y calzado sostenible y vegano de producción local | Castellón | €€€ |
 | [Companion Denim](https://companiondenim.com) | Vaqueros a medida de tela selvedge, hechos en su taller | Barcelona | €€€ |
 | [Félix de Martín](https://www.felixdemartin.com) | Sombreros, turbantes y tocados hechos a mano en su taller, para novia, invitada y hombre | Ourense | €€€ |
 | [Gamuza](https://gamuzacraft.com) | Bolsos y objetos de cuero hechos con pieles que la industria descarta | España | €€ |
@@ -79,6 +80,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Mestas](https://mestas.es) | Mantas de sofá de lana merina trashumante, 100% hechas en España | España | €€€ |
 | [Palopalú](https://palopalu.com) | Juguetes de madera y objetos de decoración hechos a mano | Bilbao | €€ |
 | [Tierra Cocida](https://www.alfartierracocida.com) | Vajilla de cerámica pintada a mano: platos ralladores, aceiteras y cuencos | Málaga | €€ |
+| [Tiroriro Home](https://tirorirohome.com) | Cabeceros, almohadones y pantallas tapizados a mano a medida | Boadilla del Monte, Madrid | €€ |
 | [Woodendot](https://woodendot.com) | Muebles y accesorios de madera diseñados en Madrid y fabricados en Íscar | Madrid | €€€ |
 
 ## 🍷 Comida y bebida
@@ -112,8 +114,10 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Margui Brand](https://marguibrand.com) | Joyas mediterráneas hechas a mano una a una | Málaga | €€ |
 | [Paula Yera](https://paulayera.com) | Joyería de autor en plata con piedras en bruto | Zaragoza | €€ |
 | [Riera Joies](https://www.rierajoies.com) | Joyas de plata con vidrio de mar, hechas a mano | Menorca | €€ |
+| [Segarra Joyeros](https://segarrajoyeros.com) | Joyería familiar desde 1939 con piezas por encargo hechas a mano | Valencia | €€€ |
 | [Srta. Bolitas](https://www.srtabolitas.com) | Collares, pulseras y pendientes hechos a mano con piedras naturales y cristal, y atrapaluces para la ventana | Barcelona | € |
 | [Suagongo](https://suagongo.com) | Joyería contemporánea impresa en 3D en su propio estudio | Galicia | €€ |
+| [The Ink](https://theink.es) | Joyas artesanales de plata hechas a mano a la cera perdida | Madrid | €€€ |
 | [Trepillé](https://www.trepille.com) | Joyas y accesorios de autor hechos pieza a pieza | Bigues i Riells, Barcelona | €€ |
 | [Émolo](https://www.emolo.es) | Bisutería artesanal en latón, perlas y cerámica esmaltada | El Palmar, Murcia | €€ |
 
@@ -130,6 +134,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Micuir](https://micuir.com) | Botas y zapatos de piel hechos a mano, diseñados por Elena Peña | Madrid | €€€ |
 | [Naguisa](https://naguisa.com) | Zapatos y alpargatas de mujer con suela de yute | Sant Just Desvern, Barcelona | €€€ |
 | [Pitusas](https://www.pitusas.es) | Alpargatas y espadrilles hechas a mano | España | €€ |
+| [Shuu](https://www.shuubarefoot.com) | Calzado barefoot elegante hecho a mano en España | Valencia | €€€ |
 | [Timpers](https://www.timpersbrand.com) | Zapatillas diseñadas por personas ciegas | Valencia | €€ |
 
 ## 🧸 Infantil
@@ -165,6 +170,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
+| [dLana](https://dlana.es) | Lana merina española para tejer, hilada en su propio taller | Arroyo de Cuéllar, Segovia | € |
 | [Secco](https://seccobrand.com) | Palas de pádel de carbono hechas a mano en España | Toledo | €€€ |
 | [The Pichichi Company](https://www.thepichichicompany.com) | Muñecos de futbolín pintados a mano, personalizables con tu equipo | España | €€ |
 <!-- marcas:fin -->
