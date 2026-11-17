@@ -83,6 +83,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Capa Cárdena](https://capacardena.com) | Carne de vaca morucha de ganadería regenerativa propia | Carrascal del Obispo, Salamanca | €€ |
 | [Cultivo Desterrado](https://cultivodesterrado.es) | Hortalizas de navazo, una huerta costera casi extinta recuperada | Sanlúcar de Barrameda, Cádiz | €€ |
 | [D·Origen Coffee](https://dorigencoffee.es) | Café de especialidad recién tostado, con finca propia en Panamá | El Albir, Alicante | € |
+| [Embutidos La Matillana](https://www.embutidoslamatillana.com/collections/embutidos-artesanos-segovia) | Embutidos artesanos de La Matilla, desde 1955 | La Matilla, Segovia | € |
 | [Ineffable Coffee](https://ineffablecoffee.com) | Café de especialidad de los campeones de tueste de España 2024 | Dos Hermanas, Sevilla | € |
 | [Karetta Maluca](https://karettamaluca.com) | Vino con causa, de agricultura ecológica: cada botella apoya un proyecto de conservación de fauna salvaje | Alicante | € |
 | [Miradorio](https://miradorio.com) | Bodega familiar: vinos blancos de la costa cántabra y catas | Ruiloba, Cantabria | € |
