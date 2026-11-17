@@ -44,6 +44,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Lantana Atelier](https://www.lantanaatelier.com) | Bikinis reversibles de nailon regenerado, hechos en fábricas familiares españolas | Alicante | €€ |
 | [Milé Design](https://miledesign.es) | Moda femenina con diseño propio y firmas seleccionadas | Palencia | €€ |
 | [Minimalism](https://minimalismbrand.com) | Básicos sostenibles sin logo, de algodón orgánico y lana reciclada | Madrid | €€ |
+| [OLD'S](https://oldsspain.com/) | Ropa clásica de hombre con diseños atemporales | Madrid | €€ |
 | [Parenzo](https://www.parenzo.es) | Bolsos de piel hechos a mano por artesanos de Ubrique | Ubrique, Cádiz | €€€ |
 | [Qosmic](https://qosmicbrand.com) | Bolsos y accesorios atemporales de piel vegana de uva | Alcobendas, Madrid | €€€ |
 | [Romualda](https://romualda.es) | Sombreros reversibles con estampados pintados a mano | Madrid | €€ |
@@ -128,6 +129,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Andrés Gallardo](https://andresgallardo.com) | Joyas y bolsos con piezas de porcelana modeladas a mano | Barcelona | €€€ |
 | [Antiqüa](https://antiqua.store) | Joyería en oro de 18 quilates y piedras preciosas | Madrid | €€€ |
 | [Bangoloti](https://bangoloti.com/) | Alta bisutería de collares y gargantillas hecha en Málaga | Málaga | €€ |
+| [El Silencio de las Flores](https://www.instagram.com/elsilenciodelasfloress/) | Joyas y regalos hechos a mano con flores naturales | España | € |
 | [Ikkelele](https://ikkelele.com) | Joyas únicas de inspiración étnica, hechas a mano | Elche, Alicante | €€ |
 | [Juia Jewels](https://juiajewels.com) | Joyería ética en plata y oro Fairmined, hecha en su taller de Sant Andreu | Barcelona | €€€ |
 | [Kett](https://www.kettbrand.com) | Collares de piedras y abalorios hechos a mano | España | €€ |
@@ -200,6 +202,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | Marca | Qué hacen | Origen | Precio |
 |---|---|---|---|
 | [Alfonso Postigo](https://shop.alfonso-postigo.com/) | Collages originales hechos a mano con recortes fotográficos | Logroño, La Rioja | €€€ |
+| [Braggs](https://braggs3d.com/) | Boquillas personalizadas para instrumentos de viento impresas en 3D | Murcia | €€ |
 | [dLana](https://dlana.es) | Lana merina española para tejer, hilada en su propio taller | Arroyo de Cuéllar, Segovia | € |
 | [Secco](https://seccobrand.com) | Palas de pádel de carbono hechas a mano en España | Toledo | €€€ |
 | [TColors](https://tcolors.net/) | Pinturas para manualidades de una cooperativa de inclusión laboral | Barcelona | € |
