@@ -49,6 +49,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [OLD'S](https://oldsspain.com/) | Ropa clásica de hombre con diseños atemporales | Madrid | €€ |
 | [Oobuka](https://www.oobuka.com/) | Bolsos, mochilas y accesorios de piel hechos a mano | Valencia | €€€ |
 | [Parenzo](https://www.parenzo.es) | Bolsos de piel hechos a mano por artesanos de Ubrique | Ubrique, Cádiz | €€€ |
+| [Puru Remangu](https://pururemangu.com/) | Sudaderas, camisetas y gorros con identidad asturiana | Gijón, Asturias | €€ |
 | [Qosmic](https://qosmicbrand.com) | Bolsos y accesorios atemporales de piel vegana de uva | Alcobendas, Madrid | €€€ |
 | [Romualda](https://romualda.es) | Sombreros reversibles con estampados pintados a mano | Madrid | €€ |
 | [Sepiia](https://sepiia.com) | Ropa inteligente que no se mancha, no se arruga ni huele | Madrid | €€€ |
@@ -124,6 +125,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [La Despensa del Cano](https://despensaelcano.es/) | Jamones y embutidos de la Sierra de Aracena, directos del productor | Galaroza, Huelva | €€€ |
 | [Miradorio](https://miradorio.com) | Bodega familiar: vinos blancos de la costa cántabra y catas | Ruiloba, Cantabria | € |
 | [Quesos Lavega](https://www.quesoslavega.com) | Quesos artesanos de oveja y vaca con leche de Castilla y León | Moslares de la Vega, Palencia | € |
+| [Senzia](https://www.senzianatural.com/) | Caldo de huesos de vacuno deshidratado, original y golden | Soria | € |
 | [Señorío de Montanera](https://tienda.senorio.es) | Jamón y embutidos ibéricos de bellota de la dehesa extremeña | Badajoz | €€€ |
 | [Sotofermoso](https://sotofermoso.es/) | Aceite de oliva virgen extra premium de cultivo biodinámico | Madrid | €€ |
 | [The Sangria Spritz](https://www.thesangriaspritz.com) | Sangría espumosa de receta nueva, en botellín o de grifo: clásica, rosa o amarga | España | € |
