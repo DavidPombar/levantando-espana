@@ -66,6 +66,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Alma Secret](https://www.almasecret.com) | Cosmética natural y ecológica que fabrican ellos mismos | Librilla, Murcia | € |
 | [Banbu](https://banbu.es) | Cosmética sólida, vegana y sin plástico, certificada ecológica | Torrelavega, Cantabria | € |
 | [Dehesia](https://dehesia.com) | Cosmética BIO con plantas medicinales de la dehesa extremeña | Cáceres | € |
+| [Fenghi](https://www.fenghi.es/) | Aceites esenciales ecológicos, mezclas y packs de aromaterapia | Valldoreix, Barcelona | €€ |
 | [Hērbera](https://www.cosmeticsherbera.com) | Dermocosmética botánica formulada y fabricada en su laboratorio propio | Madrid | €€ |
 | [IDEimperfecta](https://www.ideimperfecta.com) | Cosmética natural, sólida y artesana hecha en Valladolid | Valladolid | € |
 | [Jabonalia](https://jabonalia.es) | Jabones y champús sólidos artesanos, sin plásticos | Barcelona | € |
@@ -118,6 +119,8 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Cobardes y Gallinas](https://www.cobardesygallinas.com) | Huevos camperos a domicilio y packs regalo con aceite o vermut | Las Rozas, Madrid | €€ |
 | [Cultivo Desterrado](https://cultivodesterrado.es) | Hortalizas de navazo, una huerta costera casi extinta recuperada | Sanlúcar de Barrameda, Cádiz | €€ |
 | [D·Origen Coffee](https://dorigencoffee.es) | Café de especialidad recién tostado, con finca propia en Panamá | El Albir, Alicante | € |
+| [Embutidos Guareño](https://embutidosguareno.com/) | Jamones, chorizos y embutidos ibéricos artesanales extremeños | Fuente de Cantos, Badajoz | €€ |
+| [Embutidos La Matillana](https://www.embutidoslamatillana.com/) | Chorizo, lomo y morcilla artesanos curados en la sierra segoviana | La Matilla, Segovia | € |
 | [Floco Coffee](https://flococoffee.com) | Café de especialidad tostado de forma natural, y tés premium | Badajoz | € |
 | [Gardeniers](https://organic.gardeniers.es/) | Cremas y conservas ecológicas hechas por personas con discapacidad | Zaragoza | € |
 | [Ineffable Coffee](https://ineffablecoffee.com) | Café de especialidad de los campeones de tueste de España 2024 | Dos Hermanas, Sevilla | € |
