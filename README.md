@@ -46,6 +46,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Lantana Atelier](https://www.lantanaatelier.com) | Bikinis reversibles de nailon regenerado, hechos en fábricas familiares españolas | Alicante | €€ |
 | [Milé Design](https://miledesign.es) | Moda femenina con diseño propio y firmas seleccionadas | Palencia | €€ |
 | [Minimalism](https://minimalismbrand.com) | Básicos sostenibles sin logo, de algodón orgánico y lana reciclada | Madrid | €€ |
+| [Miso](https://misosocks.com/) | Calcetines de lana, algodón y brillo con colores mediterráneos | Burgos | € |
 | [OLD'S](https://oldsspain.com/) | Ropa clásica de hombre con diseños atemporales | Madrid | €€ |
 | [Oobuka](https://www.oobuka.com/) | Bolsos, mochilas y accesorios de piel hechos a mano | Valencia | €€€ |
 | [Parenzo](https://www.parenzo.es) | Bolsos de piel hechos a mano por artesanos de Ubrique | Ubrique, Cádiz | €€€ |
@@ -104,6 +105,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Mendi](https://www.escobasmendi.com/) | Escobas de mijo hechas a mano por cuatro generaciones | Valtierra, Navarra | € |
 | [Mestas](https://mestas.es) | Mantas de sofá de lana merina trashumante, 100% hechas en España | España | €€€ |
 | [Palopalú](https://palopalu.com) | Juguetes de madera y objetos de decoración hechos a mano | Bilbao | €€ |
+| [Sierra de Lana](https://sierradelana.com/) | Edredones, lanas y piezas tejidas con lana autóctona de Cuenca | Laguna del Marquesado, Cuenca | €€€ |
 | [Teixidors](https://www.teixidors.com) | Mantas, plaids y fulares tejidos a mano en telar desde 1983 | Terrassa, Barcelona | €€€ |
 | [Tierra Cocida](https://www.alfartierracocida.com) | Vajilla de cerámica pintada a mano: platos ralladores, aceiteras y cuencos | Málaga | €€ |
 | [Tiroriro Home](https://tirorirohome.com) | Cabeceros, almohadones y pantallas tapizados a mano a medida | Boadilla del Monte, Madrid | €€ |
@@ -116,6 +118,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Canigooil](https://www.canigooil.com/) | Aceites aromatizados, salsas y confituras del Empordà | Agullana, Girona | € |
 | [Capa Cárdena](https://capacardena.com) | Carne de vaca morucha de ganadería regenerativa propia | Carrascal del Obispo, Salamanca | €€ |
 | [Casa de Mendoza](https://casademendoza.es/) | Aceite de oliva virgen extra ecológico de una finca manchega | Socuéllamos, Ciudad Real | € |
+| [Cañarejal](https://canarejal.es/) | Quesos artesanos de leche de oveja de su propio rebaño | Pollos, Valladolid | € |
 | [Cobardes y Gallinas](https://www.cobardesygallinas.com) | Huevos camperos a domicilio y packs regalo con aceite o vermut | Las Rozas, Madrid | €€ |
 | [Cultivo Desterrado](https://cultivodesterrado.es) | Hortalizas de navazo, una huerta costera casi extinta recuperada | Sanlúcar de Barrameda, Cádiz | €€ |
 | [D·Origen Coffee](https://dorigencoffee.es) | Café de especialidad recién tostado, con finca propia en Panamá | El Albir, Alicante | € |
@@ -126,6 +129,7 @@ Detrás de cada una de estas marcas hay alguien que madruga, que se la juega y q
 | [Ineffable Coffee](https://ineffablecoffee.com) | Café de especialidad de los campeones de tueste de España 2024 | Dos Hermanas, Sevilla | € |
 | [Karetta Maluca](https://karettamaluca.com) | Vino con causa, de agricultura ecológica: cada botella apoya un proyecto de conservación de fauna salvaje | Alicante | € |
 | [La Despensa del Cano](https://despensaelcano.es/) | Jamones y embutidos de la Sierra de Aracena, directos del productor | Galaroza, Huelva | €€€ |
+| [Legumbres Espino](https://legumbresespino.com/) | Garbanzos, lentejas y alubias cultivados en su propia finca | Espino de la Orbada, Salamanca | € |
 | [Miradorio](https://miradorio.com) | Bodega familiar: vinos blancos de la costa cántabra y catas | Ruiloba, Cantabria | € |
 | [Quesos Lavega](https://www.quesoslavega.com) | Quesos artesanos de oveja y vaca con leche de Castilla y León | Moslares de la Vega, Palencia | € |
 | [Senzia](https://www.senzianatural.com/) | Caldo de huesos de vacuno deshidratado, original y golden | Soria | € |
