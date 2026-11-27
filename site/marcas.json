@@ -1,45 +1,15 @@
 {
-  "portada": "the-sangria-spritz",
+  "portada": "jabonalia",
   "marcas": [
     {
-      "id": "salad-code",
-      "nombre": "Salad Code",
-      "web": "https://www.saladcode.com",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Cosmética vegana con superalimentos: aguacate, espinaca o kiwi",
-      "origen": "España",
-      "precio": "€€",
-      "imagen": "img/salad-code.jpg"
-    },
-    {
-      "id": "mile-design",
-      "nombre": "Milé Design",
-      "web": "https://miledesign.es",
-      "categoria": "Moda y complementos",
-      "descripcion": "Moda femenina con diseño propio y firmas seleccionadas",
-      "origen": "Palencia",
-      "precio": "€€",
-      "imagen": "img/mile-design.jpg"
-    },
-    {
-      "id": "dlana",
-      "nombre": "dLana",
-      "web": "https://dlana.es",
-      "categoria": "Otros",
-      "descripcion": "Lana merina española para tejer, hilada en su propio taller",
-      "origen": "Arroyo de Cuéllar, Segovia",
-      "precio": "€",
-      "imagen": "img/dlana.jpg"
-    },
-    {
-      "id": "antiqua",
-      "nombre": "Antiqüa",
-      "web": "https://antiqua.store",
+      "id": "andres-gallardo",
+      "nombre": "Andrés Gallardo",
+      "web": "https://andresgallardo.com",
       "categoria": "Joyería",
-      "descripcion": "Joyería en oro de 18 quilates y piedras preciosas",
-      "origen": "Madrid",
+      "descripcion": "Joyas y bolsos con piezas de porcelana modeladas a mano",
+      "origen": "Barcelona",
       "precio": "€€€",
-      "imagen": "img/antiqua.jpg"
+      "imagen": "img/andres-gallardo.jpg"
     },
     {
       "id": "huemul-leather",
@@ -52,915 +22,14 @@
       "imagen": "img/huemul-leather.jpg"
     },
     {
-      "id": "matarrania",
-      "nombre": "Matarrania",
-      "web": "https://matarrania.com",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Cosmética ecológica certificada 100 % bio y de kilómetro cero",
-      "origen": "Peñarroya de Tastavins, Teruel",
-      "precio": "€",
-      "imagen": "img/matarrania.jpg"
-    },
-    {
-      "id": "flowel",
-      "nombre": "Flowel",
-      "web": "https://flowelbrand.com/",
-      "categoria": "Moda y complementos",
-      "descripcion": "Toallas y pareos de playa con materiales reciclados",
-      "origen": "Alicante",
-      "precio": "€",
-      "imagen": "img/flowel.jpg"
-    },
-    {
-      "id": "monatabu",
-      "nombre": "Monatabu",
-      "web": "https://monatabu.es",
-      "categoria": "Infantil",
-      "descripcion": "Muñecas de trapo y de apego cosidas en taller familiar",
-      "origen": "San Cristóbal de Segovia",
-      "precio": "€",
-      "imagen": "img/monatabu.jpg"
-    },
-    {
-      "id": "qosmic",
-      "nombre": "Qosmic",
-      "web": "https://qosmicbrand.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Bolsos y accesorios atemporales de piel vegana de uva",
-      "origen": "Alcobendas, Madrid",
-      "precio": "€€€",
-      "imagen": "img/qosmic.jpg"
-    },
-    {
-      "id": "miradorio",
-      "nombre": "Miradorio",
-      "web": "https://miradorio.com",
-      "categoria": "Comida y bebida",
-      "descripcion": "Bodega familiar: vinos blancos de la costa cántabra y catas",
-      "origen": "Ruiloba, Cantabria",
-      "precio": "€",
-      "imagen": "img/miradorio.jpg"
-    },
-    {
-      "id": "alfonso-postigo",
-      "nombre": "Alfonso Postigo",
-      "web": "https://shop.alfonso-postigo.com/",
-      "categoria": "Otros",
-      "descripcion": "Collages originales hechos a mano con recortes fotográficos",
-      "origen": "Logroño, La Rioja",
-      "precio": "€€€",
-      "imagen": "img/alfonso-postigo.jpg"
-    },
-    {
-      "id": "magro-cardona",
-      "nombre": "Magro Cardona",
-      "web": "https://www.magrocardona.com",
-      "categoria": "Calzado",
-      "descripcion": "Botas y zapatos de zapatería artesanal con diseño actual",
-      "origen": "Madrid",
-      "precio": "€€€",
-      "imagen": "img/magro-cardona.jpg"
-    },
-    {
-      "id": "puru-remangu",
-      "nombre": "Puru Remangu",
-      "web": "https://pururemangu.com/",
-      "categoria": "Moda y complementos",
-      "descripcion": "Sudaderas, camisetas y gorros con identidad asturiana",
-      "origen": "Gijón, Asturias",
-      "precio": "€€",
-      "imagen": "img/puru-remangu.jpg"
-    },
-    {
-      "id": "collapaper",
-      "nombre": "Collapaper",
-      "web": "https://collapaper.com/",
-      "categoria": "Papelería y libros",
-      "descripcion": "Calendarios, agendas y papelería impresos con materiales bioéticos",
-      "origen": "Valencia",
-      "precio": "€",
-      "imagen": "img/collapaper.jpg"
-    },
-    {
-      "id": "la-vidriola",
-      "nombre": "La Vidriola",
-      "web": "https://lavidriola.com",
-      "categoria": "Joyería",
-      "descripcion": "Broches y collares de acrílico cortados y pintados a mano",
-      "origen": "Valencia",
-      "precio": "€€",
-      "imagen": "img/la-vidriola.jpg"
-    },
-    {
-      "id": "sotofermoso",
-      "nombre": "Sotofermoso",
-      "web": "https://sotofermoso.es/",
-      "categoria": "Comida y bebida",
-      "descripcion": "Aceite de oliva virgen extra premium de cultivo biodinámico",
-      "origen": "Madrid",
-      "precio": "€€",
-      "imagen": "img/sotofermoso.jpg"
-    },
-    {
-      "id": "grapat",
-      "nombre": "Grapat",
-      "web": "https://shop.grapat.eu/es/inicio",
-      "categoria": "Infantil",
-      "descripcion": "Juguetes de madera pintados a mano para jugar imaginando",
-      "origen": "Girona",
-      "precio": "€",
-      "imagen": "img/grapat.jpg"
-    },
-    {
-      "id": "senorio-de-montanera",
-      "nombre": "Señorío de Montanera",
-      "web": "https://tienda.senorio.es",
-      "categoria": "Comida y bebida",
-      "descripcion": "Jamón y embutidos ibéricos de bellota de la dehesa extremeña",
-      "origen": "Badajoz",
-      "precio": "€€€",
-      "imagen": "img/senorio-de-montanera.jpg",
-      "ancha": true
-    },
-    {
-      "id": "tiroriro-home",
-      "nombre": "Tiroriro Home",
-      "web": "https://tirorirohome.com",
+      "id": "adarbakar",
+      "nombre": "Adarbakar",
+      "web": "https://adarbakar.com",
       "categoria": "Hogar y decoración",
-      "descripcion": "Cabeceros, almohadones y pantallas tapizados a mano a medida",
-      "origen": "Boadilla del Monte, Madrid",
-      "precio": "€€",
-      "imagen": "img/tiroriro-home.jpg"
-    },
-    {
-      "id": "la-madrena-moderna",
-      "nombre": "La Madreña Moderna",
-      "web": "https://lamadrenamoderna.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Camisetas y sudaderas ilustradas con fauna ibérica, hechas a mano",
-      "origen": "España",
-      "precio": "€€",
-      "imagen": "img/la-madrena-moderna.jpg"
-    },
-    {
-      "id": "lantana-atelier",
-      "nombre": "Lantana Atelier",
-      "web": "https://www.lantanaatelier.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Bikinis reversibles de nailon regenerado, hechos en fábricas familiares españolas",
-      "origen": "Alicante",
-      "precio": "€€",
-      "imagen": "img/lantana-atelier.jpg"
-    },
-    {
-      "id": "el-silencio-de-las-flores",
-      "nombre": "El Silencio de las Flores",
-      "web": "https://www.instagram.com/elsilenciodelasfloress/",
-      "categoria": "Joyería",
-      "descripcion": "Joyas y regalos hechos a mano con flores naturales",
-      "origen": "España",
-      "precio": "€",
-      "imagen": "img/el-silencio-de-las-flores.jpg"
-    },
-    {
-      "id": "teixidors",
-      "nombre": "Teixidors",
-      "web": "https://www.teixidors.com",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Mantas, plaids y fulares tejidos a mano en telar desde 1983",
-      "origen": "Terrassa, Barcelona",
-      "precio": "€€€",
-      "imagen": "img/teixidors.jpg"
-    },
-    {
-      "id": "toca-jugar-madera",
-      "nombre": "Toca Jugar Madera",
-      "web": "https://tocajugarmadera.es",
-      "categoria": "Infantil",
-      "descripcion": "Juegos artesanales de madera para jugar en familia y al aire libre",
-      "origen": "España",
-      "precio": "€€",
-      "imagen": "img/toca-jugar-madera.jpg"
-    },
-    {
-      "id": "karetta-maluca",
-      "nombre": "Karetta Maluca",
-      "web": "https://karettamaluca.com",
-      "categoria": "Comida y bebida",
-      "descripcion": "Vino con causa, de agricultura ecológica: cada botella apoya un proyecto de conservación de fauna salvaje",
-      "origen": "Alicante",
-      "precio": "€",
-      "imagen": "img/karetta-maluca.jpg"
-    },
-    {
-      "id": "llibelle",
-      "nombre": "Llibelle",
-      "web": "https://llibelle.com",
-      "categoria": "Papelería y libros",
-      "descripcion": "Libretas y carteras de piel cosidas a mano",
-      "origen": "Monóvar, Alicante",
-      "precio": "€€",
-      "imagen": "img/llibelle.jpg"
-    },
-    {
-      "id": "dos-manos",
-      "nombre": "Dos Manos",
-      "web": "https://www.editorialdosmanos.com",
-      "categoria": "Papelería y libros",
-      "descripcion": "Editorial independiente de ficción contemporánea y rescates literarios",
-      "origen": "Barcelona",
-      "precio": "€",
-      "imagen": "img/dos-manos.jpg"
-    },
-    {
-      "id": "kianu-jasper",
-      "nombre": "Kianu Jasper",
-      "web": "https://kianujasper.com/",
-      "categoria": "Joyería",
-      "descripcion": "Joyería fina en plata y oro hecha a mano",
+      "descripcion": "Piezas únicas de cerámica hechas a mano: vajilla, lámparas y objetos",
       "origen": "Barcelona",
       "precio": "€€€",
-      "imagen": "img/kianu-jasper.jpg"
-    },
-    {
-      "id": "romualda",
-      "nombre": "Romualda",
-      "web": "https://romualda.es",
-      "categoria": "Moda y complementos",
-      "descripcion": "Sombreros reversibles con estampados pintados a mano",
-      "origen": "Madrid",
-      "precio": "€€",
-      "imagen": "img/romualda.jpg"
-    },
-    {
-      "id": "herbera",
-      "nombre": "Hērbera",
-      "web": "https://www.cosmeticsherbera.com",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Dermocosmética botánica formulada y fabricada en su laboratorio propio",
-      "origen": "Madrid",
-      "precio": "€€",
-      "imagen": "img/herbera.jpg"
-    },
-    {
-      "id": "dorigen",
-      "nombre": "D·Origen Coffee",
-      "web": "https://dorigencoffee.es",
-      "categoria": "Comida y bebida",
-      "descripcion": "Café de especialidad recién tostado, con finca propia en Panamá",
-      "origen": "El Albir, Alicante",
-      "precio": "€",
-      "imagen": "img/dorigen.jpg"
-    },
-    {
-      "id": "crabs-company",
-      "nombre": "Crabs Company",
-      "web": "https://crabscompany.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Bañadores estampados de fantasía, camisetas y gorras para el verano",
-      "origen": "Mallorca",
-      "precio": "€€",
-      "imagen": "img/crabs-company.jpg"
-    },
-    {
-      "id": "fenghi",
-      "nombre": "Fenghi",
-      "web": "https://www.fenghi.es/",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Aceites esenciales ecológicos, mezclas y packs de aromaterapia",
-      "origen": "Valldoreix, Barcelona",
-      "precio": "€€",
-      "imagen": "img/fenghi.jpg"
-    },
-    {
-      "id": "mestas",
-      "nombre": "Mestas",
-      "web": "https://mestas.es",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Mantas de sofá de lana merina trashumante, 100% hechas en España",
-      "origen": "España",
-      "precio": "€€€",
-      "imagen": "img/mestas.jpg"
-    },
-    {
-      "id": "tiwel",
-      "nombre": "Tiwel",
-      "web": "https://tiwel.es",
-      "categoria": "Moda y complementos",
-      "descripcion": "Ropa streetwear y casual con su icónico peón de ajedrez",
-      "origen": "San Fernando de Henares, Madrid",
-      "precio": "€€",
-      "imagen": "img/tiwel.jpg"
-    },
-    {
-      "id": "manolito-basics",
-      "nombre": "Manolito Basics",
-      "web": "https://manolitobasics.com",
-      "categoria": "Calzado",
-      "descripcion": "Mocasines ligeros de ante, hechos a mano",
-      "origen": "España",
-      "precio": "€€€",
-      "imagen": "img/manolito-basics.jpg"
-    },
-    {
-      "id": "maminat",
-      "nombre": "Maminat",
-      "web": "https://maminat.com",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Cosmética natural y ecológica con recargas para reducir envases",
-      "origen": "Valencia",
-      "precio": "€",
-      "imagen": "img/maminat.jpg"
-    },
-    {
-      "id": "minima-organics",
-      "nombre": "Mínima Organics",
-      "web": "https://www.minimaorganics.com",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Pasta de dientes en polvo e higiene dental sin residuos",
-      "origen": "Barcelona",
-      "precio": "€",
-      "imagen": "img/minima-organics.jpg"
-    },
-    {
-      "id": "paula-yera",
-      "nombre": "Paula Yera",
-      "web": "https://paulayera.com",
-      "categoria": "Joyería",
-      "descripcion": "Joyería de autor en plata con piedras en bruto",
-      "origen": "Zaragoza",
-      "precio": "€€",
-      "imagen": "img/paula-yera.jpg"
-    },
-    {
-      "id": "cristian-morillo",
-      "nombre": "Cristian Morillo",
-      "web": "https://www.instagram.com/mc_cristianmorillo/",
-      "categoria": "Calzado",
-      "descripcion": "Zapatos, bolsos y carteras artesanales hechos a medida",
-      "origen": "Benifaió, Valencia",
-      "precio": "€€€",
-      "imagen": "img/cristian-morillo.jpg"
-    },
-    {
-      "id": "luisa",
-      "nombre": "Luisa",
-      "web": "https://weareluisa.com",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Un limpiador de doble limpieza con hierba luisa y enzimas de papaya, vegano y pensado para simplificar la rutina",
-      "origen": "Allariz, Ourense",
-      "precio": "€€",
-      "imagen": "img/luisa.jpg"
-    },
-    {
-      "id": "saper",
-      "nombre": "Såper",
-      "web": "https://www.saper.es",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Cosmética ecológica certificada y vegana: sérums y cremas faciales para piel sensible, hechos en su laboratorio",
-      "origen": "Uceda, Guadalajara",
-      "precio": "€€",
-      "imagen": "img/saper.jpg"
-    },
-    {
-      "id": "ineffable-coffee",
-      "nombre": "Ineffable Coffee",
-      "web": "https://ineffablecoffee.com",
-      "categoria": "Comida y bebida",
-      "descripcion": "Café de especialidad de los campeones de tueste de España 2024",
-      "origen": "Dos Hermanas, Sevilla",
-      "precio": "€",
-      "imagen": "img/ineffable-coffee.jpg"
-    },
-    {
-      "id": "delenzo",
-      "nombre": "dE.LENZO",
-      "web": "https://delenzo.es",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Ropa de hogar de lino y mantas de merino cosidas en taller",
-      "origen": "Alcoy, Alicante",
-      "precio": "€€",
-      "imagen": "img/delenzo.jpg"
-    },
-    {
-      "id": "herencia",
-      "nombre": "Herencia Handmade",
-      "web": "https://www.instagram.com/herencia_handmadewithlove/",
-      "categoria": "Moda y complementos",
-      "descripcion": "Chales y prendas de croché tejidas a mano por encargo",
-      "origen": "España",
-      "precio": "€€",
-      "imagen": "img/herencia.jpg"
-    },
-    {
-      "id": "pompeii",
-      "nombre": "Pompeii",
-      "web": "https://pompeiibrand.com",
-      "categoria": "Calzado",
-      "descripcion": "Zapatillas y ropa de streetwear refinado nacidas en Madrid",
-      "origen": "Madrid",
-      "precio": "€€€",
-      "imagen": "img/pompeii.jpg"
-    },
-    {
-      "id": "centro-ceramico-talavera",
-      "nombre": "Centro Cerámico Talavera",
-      "web": "https://www.ceramicatalavera.es",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Cerámica artesanal de Talavera hecha en su taller desde 1992",
-      "origen": "Talavera de la Reina, Toledo",
-      "precio": "€€€",
-      "imagen": "img/centro-ceramico-talavera.jpg"
-    },
-    {
-      "id": "trepille",
-      "nombre": "Trepillé",
-      "web": "https://www.trepille.com",
-      "categoria": "Joyería",
-      "descripcion": "Joyas y accesorios de autor hechos pieza a pieza",
-      "origen": "Bigues i Riells, Barcelona",
-      "precio": "€€",
-      "imagen": "img/trepille.jpg"
-    },
-    {
-      "id": "alex-frosum",
-      "nombre": "Alex Frosum",
-      "web": "https://alexfrosum.com",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Vidrio soplado a mano en su taller: copas, jarras y jarrones",
-      "origen": "Barcelona",
-      "precio": "€€€",
-      "imagen": "img/alex-frosum.jpg"
-    },
-    {
-      "id": "andres-gallardo",
-      "nombre": "Andrés Gallardo",
-      "web": "https://andresgallardo.com",
-      "categoria": "Joyería",
-      "descripcion": "Joyas y bolsos con piezas de porcelana modeladas a mano",
-      "origen": "Barcelona",
-      "precio": "€€€",
-      "imagen": "img/andres-gallardo.jpg"
-    },
-    {
-      "id": "extinto",
-      "nombre": "Extinto",
-      "web": "https://extinto.es",
-      "categoria": "Papelería y libros",
-      "descripcion": "Cuadernos de dibujo encuadernados a mano uno a uno, en ediciones limitadas y con papeles de calidad",
-      "origen": "Zaragoza",
-      "precio": "€",
-      "imagen": "img/extinto.jpg"
-    },
-    {
-      "id": "happy-swallow",
-      "nombre": "Happy Swallow",
-      "web": "https://happyswallow.com",
-      "categoria": "Mascotas",
-      "descripcion": "Camas de madera y comederos personalizados, hechos a mano",
-      "origen": "España",
-      "precio": "€€",
-      "imagen": "img/happy-swallow.jpg"
-    },
-    {
-      "id": "natvral-lavde",
-      "nombre": "Natvral Lavde",
-      "web": "https://natvral-lavde.com",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Dermocosmética natural con probióticos: sérums, brumas y tratamientos faciales y corporales",
-      "origen": "Elche, Alicante",
-      "precio": "€€",
-      "imagen": "img/natvral-lavde.jpg"
-    },
-    {
-      "id": "el-obrador-de-momo",
-      "nombre": "El Obrador de Momo",
-      "web": "https://www.elobradordemomo.com",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Cerámica de autor hecha y pintada a mano",
-      "origen": "Montemayor del Río, Salamanca",
-      "precio": "€€",
-      "imagen": "img/el-obrador-de-momo.jpg"
-    },
-    {
-      "id": "ybernia",
-      "nombre": "Ybernia",
-      "web": "https://www.ybernia.com/",
-      "categoria": "Papelería y libros",
-      "descripcion": "Editorial independiente de libros en inglés y español",
-      "origen": "Madrid",
-      "precio": "€",
-      "imagen": "img/ybernia.jpg"
-    },
-    {
-      "id": "petita-guilla",
-      "nombre": "Petita Guilla",
-      "web": "https://petitaguilla.com",
-      "categoria": "Infantil",
-      "descripcion": "Juguetes de madera pintados a mano en taller familiar",
-      "origen": "Sant Hilari Sacalm, Girona",
-      "precio": "€€",
-      "imagen": "img/petita-guilla.jpg"
-    },
-    {
-      "id": "cocol",
-      "nombre": "Cocol",
-      "web": "https://cocolmadrid.es",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Artesanía tradicional española reinterpretada: cerámica, botijos, abanicos y cestería",
-      "origen": "Madrid",
-      "precio": "€€",
-      "imagen": "img/cocol.jpg"
-    },
-    {
-      "id": "quesos-lavega",
-      "nombre": "Quesos Lavega",
-      "web": "https://www.quesoslavega.com",
-      "categoria": "Comida y bebida",
-      "descripcion": "Quesos artesanos de oveja y vaca con leche de Castilla y León",
-      "origen": "Moslares de la Vega, Palencia",
-      "precio": "€",
-      "imagen": "img/quesos-lavega.jpg"
-    },
-    {
-      "id": "tierra-cocida",
-      "nombre": "Tierra Cocida",
-      "web": "https://www.alfartierracocida.com",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Vajilla de cerámica pintada a mano: platos ralladores, aceiteras y cuencos",
-      "origen": "Málaga",
-      "precio": "€€",
-      "imagen": "img/tierra-cocida.jpg"
-    },
-    {
-      "id": "intre",
-      "nombre": "Intre",
-      "web": "https://intre.es",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Objetos cotidianos de diseño: tazas ilustradas, cuencos y más",
-      "origen": "Meira, Lugo",
-      "precio": "€€",
-      "imagen": "img/intre.jpg"
-    },
-    {
-      "id": "palopalu",
-      "nombre": "Palopalú",
-      "web": "https://palopalu.com",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Juguetes de madera y objetos de decoración hechos a mano",
-      "origen": "Bilbao",
-      "precio": "€€",
-      "imagen": "img/palopalu.jpg"
-    },
-    {
-      "id": "capa-cardena",
-      "nombre": "Capa Cárdena",
-      "web": "https://capacardena.com",
-      "categoria": "Comida y bebida",
-      "descripcion": "Carne de vaca morucha de ganadería regenerativa propia",
-      "origen": "Carrascal del Obispo, Salamanca",
-      "precio": "€€",
-      "imagen": "img/capa-cardena.jpg"
-    },
-    {
-      "id": "mibo",
-      "nombre": "Mibo",
-      "web": "https://www.abarcasmenorquinas.com",
-      "categoria": "Calzado",
-      "descripcion": "Avarcas menorquinas hechas en la isla desde 1998",
-      "origen": "Es Migjorn Gran, Menorca",
-      "precio": "€€",
-      "imagen": "img/mibo.jpg"
-    },
-    {
-      "id": "canttinela",
-      "nombre": "Canttinela",
-      "web": "https://canttinela.com",
-      "categoria": "Calzado",
-      "descripcion": "Zapatillas artesanas hechas con calma en un pueblo de Huelva",
-      "origen": "Huelva",
-      "precio": "€€",
-      "imagen": "img/canttinela.jpg"
-    },
-    {
-      "id": "clotsy",
-      "nombre": "Clotsy",
-      "web": "https://www.clotsybrand.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Ropa y calzado sostenible y vegano de producción local",
-      "origen": "Castellón",
-      "precio": "€€€",
-      "imagen": "img/clotsy.jpg"
-    },
-    {
-      "id": "bitxo-bola",
-      "nombre": "Bitxo Bola",
-      "web": "https://bitxobola.com",
-      "categoria": "Infantil",
-      "descripcion": "Ropa infantil de algodón ecológico hecha en su tienda-taller",
-      "origen": "Bilbao, Bizkaia",
-      "precio": "€€",
-      "imagen": "img/bitxo-bola.jpg"
-    },
-    {
-      "id": "ownia",
-      "nombre": "Ownia Cosmetics",
-      "web": "https://owniacosmetics.com/",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Cosmética facial para piel sensible basada en el microbioma",
-      "origen": "Madrid",
-      "precio": "€€",
-      "imagen": "img/ownia.jpg"
-    },
-    {
-      "id": "companion-denim",
-      "nombre": "Companion Denim",
-      "web": "https://companiondenim.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Vaqueros a medida de tela selvedge, hechos en su taller",
-      "origen": "Barcelona",
-      "precio": "€€€",
-      "imagen": "img/companion-denim.jpg"
-    },
-    {
-      "id": "casa-de-mendoza",
-      "nombre": "Casa de Mendoza",
-      "web": "https://casademendoza.es/",
-      "categoria": "Comida y bebida",
-      "descripcion": "Aceite de oliva virgen extra ecológico de una finca manchega",
-      "origen": "Socuéllamos, Ciudad Real",
-      "precio": "€",
-      "imagen": "img/casa-de-mendoza.jpg"
-    },
-    {
-      "id": "alhamas",
-      "nombre": "Alhamas",
-      "web": "https://alhamas.es",
-      "categoria": "Calzado",
-      "descripcion": "Alpargatas de yute cosidas a mano en la cuna riojana",
-      "origen": "Cervera del Río Alhama, La Rioja",
-      "precio": "€€",
-      "imagen": "img/alhamas.jpg"
-    },
-    {
-      "id": "cucurumbell",
-      "nombre": "Cucurumbell",
-      "web": "https://www.cucurumbell.com/",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Manteles resinados a medida, individuales y servilletas de lino",
-      "origen": "Madrid",
-      "precio": "€€",
-      "imagen": "img/cucurumbell.jpg"
-    },
-    {
-      "id": "braggs",
-      "nombre": "Braggs",
-      "web": "https://braggs3d.com/",
-      "categoria": "Otros",
-      "descripcion": "Boquillas personalizadas para instrumentos de viento impresas en 3D",
-      "origen": "Murcia",
-      "precio": "€€",
-      "imagen": "img/braggs.jpg"
-    },
-    {
-      "id": "mar-montenegro",
-      "nombre": "Mar Montenegro",
-      "web": "https://marmontenegro.com",
-      "categoria": "Joyería",
-      "descripcion": "Joyas de porcelana hechas a mano",
-      "origen": "España",
-      "precio": "€€",
-      "imagen": "img/mar-montenegro.jpg"
-    },
-    {
-      "id": "la-despensa-del-cano",
-      "nombre": "La Despensa del Cano",
-      "web": "https://despensaelcano.es/",
-      "categoria": "Comida y bebida",
-      "descripcion": "Jamones y embutidos de la Sierra de Aracena, directos del productor",
-      "origen": "Galaroza, Huelva",
-      "precio": "€€€",
-      "imagen": "img/la-despensa-del-cano.jpg"
-    },
-    {
-      "id": "laia-alen",
-      "nombre": "Laia Alen",
-      "web": "https://www.laiaalen.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Bolsos y punto de colores, horas de trabajo artesanal por pieza",
-      "origen": "Cataluña",
-      "precio": "€€€",
-      "imagen": "img/laia-alen.jpg"
-    },
-    {
-      "id": "mendi",
-      "nombre": "Mendi",
-      "web": "https://www.escobasmendi.com/",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Escobas de mijo hechas a mano por cuatro generaciones",
-      "origen": "Valtierra, Navarra",
-      "precio": "€",
-      "imagen": "img/mendi.jpg"
-    },
-    {
-      "id": "luz-de-nehca",
-      "nombre": "Luz de Nehca",
-      "web": "https://luzdenehca.com",
-      "categoria": "Joyería",
-      "descripcion": "Joyería artesanal con metales reciclados y certificados",
-      "origen": "España",
-      "precio": "€€",
-      "imagen": "img/luz-de-nehca.jpg"
-    },
-    {
-      "id": "segarra-joyeros",
-      "nombre": "Segarra Joyeros",
-      "web": "https://segarrajoyeros.com",
-      "categoria": "Joyería",
-      "descripcion": "Joyería familiar desde 1939 con piezas por encargo hechas a mano",
-      "origen": "Valencia",
-      "precio": "€€€",
-      "imagen": "img/segarra-joyeros.jpg"
-    },
-    {
-      "id": "riera-joies",
-      "nombre": "Riera Joies",
-      "web": "https://www.rierajoies.com",
-      "categoria": "Joyería",
-      "descripcion": "Joyas de plata con vidrio de mar, hechas a mano",
-      "origen": "Menorca",
-      "precio": "€€",
-      "imagen": "img/riera-joies.jpg"
-    },
-    {
-      "id": "alma-secret",
-      "nombre": "Alma Secret",
-      "web": "https://www.almasecret.com",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Cosmética natural y ecológica que fabrican ellos mismos",
-      "origen": "Librilla, Murcia",
-      "precio": "€",
-      "imagen": "img/alma-secret.jpg"
-    },
-    {
-      "id": "klitie",
-      "nombre": "Klitie",
-      "web": "https://klitie.com",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Velas artesanales de colza, sets regalo y talleres florales",
-      "origen": "Leganés, Madrid",
-      "precio": "€€",
-      "imagen": "img/klitie.jpg"
-    },
-    {
-      "id": "edmmond-studios",
-      "nombre": "Edmmond Studios",
-      "web": "https://edmmond.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Básicos masculinos contemporáneos pensados para durar",
-      "origen": "Madrid",
-      "precio": "€€€",
-      "imagen": "img/edmmond-studios.jpg"
-    },
-    {
-      "id": "cultivo-desterrado",
-      "nombre": "Cultivo Desterrado",
-      "web": "https://cultivodesterrado.es",
-      "categoria": "Comida y bebida",
-      "descripcion": "Hortalizas de navazo, una huerta costera casi extinta recuperada",
-      "origen": "Sanlúcar de Barrameda, Cádiz",
-      "precio": "€€",
-      "imagen": "img/cultivo-desterrado.jpg"
-    },
-    {
-      "id": "embutidos-guareno",
-      "nombre": "Embutidos Guareño",
-      "web": "https://embutidosguareno.com/",
-      "categoria": "Comida y bebida",
-      "descripcion": "Jamones, chorizos y embutidos ibéricos artesanales extremeños",
-      "origen": "Fuente de Cantos, Badajoz",
-      "precio": "€€",
-      "imagen": "img/embutidos-guareno.jpg"
-    },
-    {
-      "id": "shuu",
-      "nombre": "Shuu",
-      "web": "https://www.shuubarefoot.com",
-      "categoria": "Calzado",
-      "descripcion": "Calzado barefoot elegante hecho a mano en España",
-      "origen": "Valencia",
-      "precio": "€€€",
-      "imagen": "img/shuu.jpg"
-    },
-    {
-      "id": "embutidos-la-matillana",
-      "nombre": "Embutidos La Matillana",
-      "web": "https://www.embutidoslamatillana.com/",
-      "categoria": "Comida y bebida",
-      "descripcion": "Chorizo, lomo y morcilla artesanos curados en la sierra segoviana",
-      "origen": "La Matilla, Segovia",
-      "precio": "€",
-      "imagen": "img/embutidos-la-matillana.jpg"
-    },
-    {
-      "id": "kett",
-      "nombre": "Kett",
-      "web": "https://www.kettbrand.com",
-      "categoria": "Joyería",
-      "descripcion": "Collares de piedras y abalorios hechos a mano",
-      "origen": "España",
-      "precio": "€€",
-      "imagen": "img/kett.jpg"
-    },
-    {
-      "id": "juia-jewels",
-      "nombre": "Juia Jewels",
-      "web": "https://juiajewels.com",
-      "categoria": "Joyería",
-      "descripcion": "Joyería ética en plata y oro Fairmined, hecha en su taller de Sant Andreu",
-      "origen": "Barcelona",
-      "precio": "€€€",
-      "imagen": "img/juia-jewels.jpg"
-    },
-    {
-      "id": "dehesia",
-      "nombre": "Dehesia",
-      "web": "https://dehesia.com",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Cosmética BIO con plantas medicinales de la dehesa extremeña",
-      "origen": "Cáceres",
-      "precio": "€",
-      "imagen": "img/dehesia.jpg"
-    },
-    {
-      "id": "naguisa",
-      "nombre": "Naguisa",
-      "web": "https://naguisa.com",
-      "categoria": "Calzado",
-      "descripcion": "Zapatos y alpargatas de mujer con suela de yute",
-      "origen": "Sant Just Desvern, Barcelona",
-      "precio": "€€€",
-      "imagen": "img/naguisa.jpg"
-    },
-    {
-      "id": "book-and-glow",
-      "nombre": "Book & Glow",
-      "web": "https://bookandglow.com",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Velas aromáticas veganas vertidas a mano una a una",
-      "origen": "San Sebastián, Gipuzkoa",
-      "precio": "€",
-      "imagen": "img/book-and-glow.jpg"
-    },
-    {
-      "id": "felix-de-martin",
-      "nombre": "Félix de Martín",
-      "web": "https://www.felixdemartin.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Sombreros, turbantes y tocados hechos a mano en su taller, para novia, invitada y hombre",
-      "origen": "Ourense",
-      "precio": "€€€",
-      "imagen": "img/felix-de-martin.jpg"
-    },
-    {
-      "id": "pitusas",
-      "nombre": "Pitusas",
-      "web": "https://www.pitusas.es",
-      "categoria": "Calzado",
-      "descripcion": "Alpargatas y espadrilles hechas a mano",
-      "origen": "España",
-      "precio": "€€",
-      "imagen": "img/pitusas.jpg"
-    },
-    {
-      "id": "kuus",
-      "nombre": "Kuus",
-      "web": "https://www.kuus.es",
-      "categoria": "Joyería",
-      "descripcion": "Joyas y adornos de cerámica artesanal",
-      "origen": "España",
-      "precio": "€€",
-      "imagen": "img/kuus.jpg"
-    },
-    {
-      "id": "capitan-denim",
-      "nombre": "Capitán Denim",
-      "web": "https://capitandenim.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Vaqueros sostenibles fabricados en su propia fábrica de Albacete",
-      "origen": "Madrigueras, Albacete",
-      "precio": "€€",
-      "imagen": "img/capitan-denim.jpg"
-    },
-    {
-      "id": "banbu",
-      "nombre": "Banbu",
-      "web": "https://banbu.es",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Cosmética sólida, vegana y sin plástico, certificada ecológica",
-      "origen": "Torrelavega, Cantabria",
-      "precio": "€",
-      "imagen": "img/banbu.jpg"
+      "imagen": "img/adarbakar.jpg"
     },
     {
       "id": "olds",
@@ -973,114 +42,34 @@
       "imagen": "img/olds.jpg"
     },
     {
-      "id": "mantas-de-grazalema",
-      "nombre": "Mantas de Grazalema",
-      "web": "https://www.mantasdegrazalema.com",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Mantas, ponchos y bufandas de lana tejidos en el telar del pueblo",
-      "origen": "Grazalema, Cádiz",
-      "precio": "€€€",
-      "imagen": "img/mantas-de-grazalema.jpg"
-    },
-    {
-      "id": "gozo",
-      "nombre": "GOZO",
-      "web": "https://holagozo.com",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Flores y plantas a domicilio, y tú eliges el día",
-      "origen": "Sant Boi de Llobregat, Barcelona",
-      "precio": "€€",
-      "imagen": "img/gozo.jpg"
-    },
-    {
-      "id": "oobuka",
-      "nombre": "Oobuka",
-      "web": "https://www.oobuka.com/",
-      "categoria": "Moda y complementos",
-      "descripcion": "Bolsos, mochilas y accesorios de piel hechos a mano",
-      "origen": "Valencia",
-      "precio": "€€€",
-      "imagen": "img/oobuka.jpg"
-    },
-    {
-      "id": "the-ink",
-      "nombre": "The Ink",
-      "web": "https://theink.es",
-      "categoria": "Joyería",
-      "descripcion": "Joyas artesanales de plata hechas a mano a la cera perdida",
-      "origen": "Madrid",
-      "precio": "€€€",
-      "imagen": "img/the-ink.jpg"
-    },
-    {
-      "id": "suagongo",
-      "nombre": "Suagongo",
-      "web": "https://suagongo.com",
-      "categoria": "Joyería",
-      "descripcion": "Joyería contemporánea impresa en 3D en su propio estudio",
-      "origen": "Galicia",
-      "precio": "€€",
-      "imagen": "img/suagongo.jpg"
-    },
-    {
-      "id": "milagritos",
-      "nombre": "Milagritos",
-      "web": "https://milagritos.store",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Velas de soja y coco hechas a mano, con caja regalo",
-      "origen": "Barcelona",
-      "precio": "€",
-      "imagen": "img/milagritos.jpg"
-    },
-    {
-      "id": "pimpiliana",
-      "nombre": "Pimpiliana",
-      "web": "https://pimpilianaeditorial.com",
-      "categoria": "Papelería y libros",
-      "descripcion": "Editorial infantil ilustrada: las aventuras de la bruja Pamplinas",
-      "origen": "Madrid",
-      "precio": "€",
-      "imagen": "img/pimpiliana.jpg"
-    },
-    {
-      "id": "vitamina-jota",
-      "nombre": "Vitamina Jota",
-      "web": "https://www.vitaminajota.com",
+      "id": "la-despensa-del-cano",
+      "nombre": "La Despensa del Cano",
+      "web": "https://despensaelcano.es/",
       "categoria": "Comida y bebida",
-      "descripcion": "Jamón y paleta ibéricos de la sierra de Huelva, lotes navideños",
-      "origen": "Huelva",
+      "descripcion": "Jamones y embutidos de la Sierra de Aracena, directos del productor",
+      "origen": "Galaroza, Huelva",
       "precio": "€€€",
-      "imagen": "img/vitamina-jota.jpg"
+      "imagen": "img/la-despensa-del-cano.jpg"
     },
     {
-      "id": "ideimperfecta",
-      "nombre": "IDEimperfecta",
-      "web": "https://www.ideimperfecta.com",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Cosmética natural, sólida y artesana hecha en Valladolid",
-      "origen": "Valladolid",
-      "precio": "€",
-      "imagen": "img/ideimperfecta.jpg"
+      "id": "sotofermoso",
+      "nombre": "Sotofermoso",
+      "web": "https://sotofermoso.es/",
+      "categoria": "Comida y bebida",
+      "descripcion": "Aceite de oliva virgen extra premium de cultivo biodinámico",
+      "origen": "Madrid",
+      "precio": "€€",
+      "imagen": "img/sotofermoso.jpg"
     },
     {
-      "id": "magician-woman-ink",
-      "nombre": "Magician Woman Ink",
-      "web": "https://magicianwomanink.com",
-      "categoria": "Papelería y libros",
-      "descripcion": "Serigrafías hechas a mano: láminas, bolsas y camisetas ilustradas",
-      "origen": "Barcelona",
-      "precio": "€",
-      "imagen": "img/magician-woman-ink.jpg"
-    },
-    {
-      "id": "wool4life",
-      "nombre": "Wool4Life",
-      "web": "https://wool4.life/",
-      "categoria": "Moda y complementos",
-      "descripcion": "Jerséis, gorros y conjuntos de lana merina trashumante local",
-      "origen": "Mota del Cuervo, Cuenca",
-      "precio": "€€€",
-      "imagen": "img/wool4life.jpg"
+      "id": "bangoloti",
+      "nombre": "Bangoloti",
+      "web": "https://bangoloti.com/",
+      "categoria": "Joyería",
+      "descripcion": "Alta bisutería de collares y gargantillas hecha en Málaga",
+      "origen": "Málaga",
+      "precio": "€€",
+      "imagen": "img/bangoloti.jpg"
     },
     {
       "id": "srta-bolitas",
@@ -1093,24 +82,365 @@
       "imagen": "img/srta-bolitas.jpg"
     },
     {
-      "id": "aziza-puch",
-      "nombre": "Aziza Puch",
-      "web": "https://azizapuch.com/",
-      "categoria": "Moda y complementos",
-      "descripcion": "Pañuelos y fulares de seda natural pintados a mano",
-      "origen": "Meano, Navarra",
+      "id": "luz-de-nehca",
+      "nombre": "Luz de Nehca",
+      "web": "https://luzdenehca.com",
+      "categoria": "Joyería",
+      "descripcion": "Joyería artesanal con metales reciclados y certificados",
+      "origen": "España",
       "precio": "€€",
-      "imagen": "img/aziza-puch.jpg"
+      "imagen": "img/luz-de-nehca.jpg"
     },
     {
-      "id": "parenzo",
-      "nombre": "Parenzo",
-      "web": "https://www.parenzo.es",
-      "categoria": "Moda y complementos",
-      "descripcion": "Bolsos de piel hechos a mano por artesanos de Ubrique",
-      "origen": "Ubrique, Cádiz",
+      "id": "mates",
+      "nombre": "MaTeS",
+      "web": "https://www.mates.cat/",
+      "categoria": "Calzado",
+      "descripcion": "Zapatillas deportivas artesanas cosidas en Sants desde 1947",
+      "origen": "Barcelona",
       "precio": "€€€",
-      "imagen": "img/parenzo.jpg"
+      "imagen": "img/mates.jpg",
+      "ancha": true
+    },
+    {
+      "id": "magro-cardona",
+      "nombre": "Magro Cardona",
+      "web": "https://www.magrocardona.com",
+      "categoria": "Calzado",
+      "descripcion": "Botas y zapatos de zapatería artesanal con diseño actual",
+      "origen": "Madrid",
+      "precio": "€€€",
+      "imagen": "img/magro-cardona.jpg"
+    },
+    {
+      "id": "clotsy",
+      "nombre": "Clotsy",
+      "web": "https://www.clotsybrand.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Ropa y calzado sostenible y vegano de producción local",
+      "origen": "Castellón",
+      "precio": "€€€",
+      "imagen": "img/clotsy.jpg"
+    },
+    {
+      "id": "wooldreamers",
+      "nombre": "Wooldreamers",
+      "web": "https://wooldreamers.com/",
+      "categoria": "Otros",
+      "descripcion": "Hilo y telas de lana de rebaños locales, hilada en casa",
+      "origen": "Mota del Cuervo, Cuenca",
+      "precio": "€",
+      "imagen": "img/wooldreamers.jpg"
+    },
+    {
+      "id": "mantas-de-grazalema",
+      "nombre": "Mantas de Grazalema",
+      "web": "https://www.mantasdegrazalema.com",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Mantas, ponchos y bufandas de lana tejidos en el telar del pueblo",
+      "origen": "Grazalema, Cádiz",
+      "precio": "€€€",
+      "imagen": "img/mantas-de-grazalema.jpg"
+    },
+    {
+      "id": "fenghi",
+      "nombre": "Fenghi",
+      "web": "https://www.fenghi.es/",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Aceites esenciales ecológicos, mezclas y packs de aromaterapia",
+      "origen": "Valldoreix, Barcelona",
+      "precio": "€€",
+      "imagen": "img/fenghi.jpg"
+    },
+    {
+      "id": "laia-alen",
+      "nombre": "Laia Alen",
+      "web": "https://www.laiaalen.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Bolsos y punto de colores, horas de trabajo artesanal por pieza",
+      "origen": "Cataluña",
+      "precio": "€€€",
+      "imagen": "img/laia-alen.jpg"
+    },
+    {
+      "id": "shuu",
+      "nombre": "Shuu",
+      "web": "https://www.shuubarefoot.com",
+      "categoria": "Calzado",
+      "descripcion": "Calzado barefoot elegante hecho a mano en España",
+      "origen": "Valencia",
+      "precio": "€€€",
+      "imagen": "img/shuu.jpg"
+    },
+    {
+      "id": "xixarito",
+      "nombre": "Xixarito",
+      "web": "https://bodegasbaron.es/pages/gama-xixarito",
+      "categoria": "Comida y bebida",
+      "descripcion": "Vinos de Jerez y manzanilla de Bodegas Barón con larga crianza",
+      "origen": "Sanlúcar de Barrameda, Cádiz",
+      "precio": "€",
+      "imagen": "img/xixarito.jpg"
+    },
+    {
+      "id": "felix-de-martin",
+      "nombre": "Félix de Martín",
+      "web": "https://www.felixdemartin.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Sombreros, turbantes y tocados hechos a mano en su taller, para novia, invitada y hombre",
+      "origen": "Ourense",
+      "precio": "€€€",
+      "imagen": "img/felix-de-martin.jpg"
+    },
+    {
+      "id": "mestas",
+      "nombre": "Mestas",
+      "web": "https://mestas.es",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Mantas de sofá de lana merina trashumante, 100% hechas en España",
+      "origen": "España",
+      "precio": "€€€",
+      "imagen": "img/mestas.jpg"
+    },
+    {
+      "id": "cucurumbell",
+      "nombre": "Cucurumbell",
+      "web": "https://www.cucurumbell.com/",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Manteles resinados a medida, individuales y servilletas de lino",
+      "origen": "Madrid",
+      "precio": "€€",
+      "imagen": "img/cucurumbell.jpg"
+    },
+    {
+      "id": "kuus",
+      "nombre": "Kuus",
+      "web": "https://www.kuus.es",
+      "categoria": "Joyería",
+      "descripcion": "Joyas y adornos de cerámica artesanal",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/kuus.jpg"
+    },
+    {
+      "id": "darome",
+      "nombre": "D'Arome",
+      "web": "https://www.darome.es/",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Ambientadores, mikados y aromas para perfumar la casa",
+      "origen": "Alhama de Murcia, Murcia",
+      "precio": "€",
+      "imagen": "img/darome.jpg"
+    },
+    {
+      "id": "la-madrena-moderna",
+      "nombre": "La Madreña Moderna",
+      "web": "https://lamadrenamoderna.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Camisetas y sudaderas ilustradas con fauna ibérica, hechas a mano",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/la-madrena-moderna.jpg"
+    },
+    {
+      "id": "tcolors",
+      "nombre": "TColors",
+      "web": "https://tcolors.net/",
+      "categoria": "Otros",
+      "descripcion": "Pinturas para manualidades de una cooperativa de inclusión laboral",
+      "origen": "Barcelona",
+      "precio": "€",
+      "imagen": "img/tcolors.jpg"
+    },
+    {
+      "id": "alex-frosum",
+      "nombre": "Alex Frosum",
+      "web": "https://alexfrosum.com",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Vidrio soplado a mano en su taller: copas, jarras y jarrones",
+      "origen": "Barcelona",
+      "precio": "€€€",
+      "imagen": "img/alex-frosum.jpg"
+    },
+    {
+      "id": "the-pichichi-company",
+      "nombre": "The Pichichi Company",
+      "web": "https://www.thepichichicompany.com",
+      "categoria": "Otros",
+      "descripcion": "Muñecos de futbolín pintados a mano, personalizables con tu equipo",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/the-pichichi-company.jpg"
+    },
+    {
+      "id": "margui-brand",
+      "nombre": "Margui Brand",
+      "web": "https://marguibrand.com",
+      "categoria": "Joyería",
+      "descripcion": "Joyas mediterráneas hechas a mano una a una",
+      "origen": "Málaga",
+      "precio": "€€",
+      "imagen": "img/margui-brand.jpg"
+    },
+    {
+      "id": "pimpiliana",
+      "nombre": "Pimpiliana",
+      "web": "https://pimpilianaeditorial.com",
+      "categoria": "Papelería y libros",
+      "descripcion": "Editorial infantil ilustrada: las aventuras de la bruja Pamplinas",
+      "origen": "Madrid",
+      "precio": "€",
+      "imagen": "img/pimpiliana.jpg"
+    },
+    {
+      "id": "wool4life",
+      "nombre": "Wool4Life",
+      "web": "https://wool4.life/",
+      "categoria": "Moda y complementos",
+      "descripcion": "Jerséis, gorros y conjuntos de lana merina trashumante local",
+      "origen": "Mota del Cuervo, Cuenca",
+      "precio": "€€€",
+      "imagen": "img/wool4life.jpg"
+    },
+    {
+      "id": "la-vidriola",
+      "nombre": "La Vidriola",
+      "web": "https://lavidriola.com",
+      "categoria": "Joyería",
+      "descripcion": "Broches y collares de acrílico cortados y pintados a mano",
+      "origen": "Valencia",
+      "precio": "€€",
+      "imagen": "img/la-vidriola.jpg"
+    },
+    {
+      "id": "naguisa",
+      "nombre": "Naguisa",
+      "web": "https://naguisa.com",
+      "categoria": "Calzado",
+      "descripcion": "Zapatos y alpargatas de mujer con suela de yute",
+      "origen": "Sant Just Desvern, Barcelona",
+      "precio": "€€€",
+      "imagen": "img/naguisa.jpg"
+    },
+    {
+      "id": "teixidors",
+      "nombre": "Teixidors",
+      "web": "https://www.teixidors.com",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Mantas, plaids y fulares tejidos a mano en telar desde 1983",
+      "origen": "Terrassa, Barcelona",
+      "precio": "€€€",
+      "imagen": "img/teixidors.jpg"
+    },
+    {
+      "id": "kett",
+      "nombre": "Kett",
+      "web": "https://www.kettbrand.com",
+      "categoria": "Joyería",
+      "descripcion": "Collares de piedras y abalorios hechos a mano",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/kett.jpg"
+    },
+    {
+      "id": "tre-timber-toys",
+      "nombre": "Tré Timber Toys",
+      "web": "https://tretimbertoys.com",
+      "categoria": "Infantil",
+      "descripcion": "Juguetes y muebles infantiles de madera",
+      "origen": "España",
+      "precio": "€€€",
+      "imagen": "img/tre-timber-toys.jpg"
+    },
+    {
+      "id": "ikkelele",
+      "nombre": "Ikkelele",
+      "web": "https://ikkelele.com",
+      "categoria": "Joyería",
+      "descripcion": "Joyas únicas de inspiración étnica, hechas a mano",
+      "origen": "Elche, Alicante",
+      "precio": "€€",
+      "imagen": "img/ikkelele.jpg"
+    },
+    {
+      "id": "mile-design",
+      "nombre": "Milé Design",
+      "web": "https://miledesign.es",
+      "categoria": "Moda y complementos",
+      "descripcion": "Moda femenina con diseño propio y firmas seleccionadas",
+      "origen": "Palencia",
+      "precio": "€€",
+      "imagen": "img/mile-design.jpg"
+    },
+    {
+      "id": "tiroriro-home",
+      "nombre": "Tiroriro Home",
+      "web": "https://tirorirohome.com",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Cabeceros, almohadones y pantallas tapizados a mano a medida",
+      "origen": "Boadilla del Monte, Madrid",
+      "precio": "€€",
+      "imagen": "img/tiroriro-home.jpg"
+    },
+    {
+      "id": "floco-coffee",
+      "nombre": "Floco Coffee",
+      "web": "https://flococoffee.com",
+      "categoria": "Comida y bebida",
+      "descripcion": "Café de especialidad tostado de forma natural, y tés premium",
+      "origen": "Badajoz",
+      "precio": "€",
+      "imagen": "img/floco-coffee.jpg"
+    },
+    {
+      "id": "herbera",
+      "nombre": "Hērbera",
+      "web": "https://www.cosmeticsherbera.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Dermocosmética botánica formulada y fabricada en su laboratorio propio",
+      "origen": "Madrid",
+      "precio": "€€",
+      "imagen": "img/herbera.jpg"
+    },
+    {
+      "id": "lolos",
+      "nombre": "LOLO'S",
+      "web": "https://lslolos.com",
+      "categoria": "Mascotas",
+      "descripcion": "Collares y correas de tejido fabricados en su propio taller",
+      "origen": "España",
+      "precio": "€",
+      "imagen": "img/lolos.jpg"
+    },
+    {
+      "id": "alhamas",
+      "nombre": "Alhamas",
+      "web": "https://alhamas.es",
+      "categoria": "Calzado",
+      "descripcion": "Alpargatas de yute cosidas a mano en la cuna riojana",
+      "origen": "Cervera del Río Alhama, La Rioja",
+      "precio": "€€",
+      "imagen": "img/alhamas.jpg"
+    },
+    {
+      "id": "vitamina-jota",
+      "nombre": "Vitamina Jota",
+      "web": "https://www.vitaminajota.com",
+      "categoria": "Comida y bebida",
+      "descripcion": "Jamón y paleta ibéricos de la sierra de Huelva, lotes navideños",
+      "origen": "Huelva",
+      "precio": "€€€",
+      "imagen": "img/vitamina-jota.jpg"
+    },
+    {
+      "id": "the-sangria-spritz",
+      "nombre": "The Sangria Spritz",
+      "web": "https://www.thesangriaspritz.com",
+      "categoria": "Comida y bebida",
+      "descripcion": "Sangría espumosa de receta nueva, en botellín o de grifo: clásica, rosa o amarga",
+      "origen": "España",
+      "precio": "€",
+      "imagen": "img/the-sangria-spritz.jpg"
     },
     {
       "id": "virago-jewels",
@@ -1133,64 +463,14 @@
       "imagen": "img/woodendot.jpg"
     },
     {
-      "id": "zahati",
-      "nombre": "Zahati",
-      "web": "https://zahati.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Sombreros y bolsos de paja de trigo trenzada a mano",
-      "origen": "Gata de Gorgos, Alicante",
-      "precio": "€€",
-      "imagen": "img/zahati.jpg"
-    },
-    {
-      "id": "mitumi",
-      "nombre": "Mitumi",
-      "web": "https://mitumijoyas.com/",
-      "categoria": "Joyería",
-      "descripcion": "Pendientes de diseño propio superligeros y coloridos",
-      "origen": "Valencia",
-      "precio": "€€",
-      "imagen": "img/mitumi.jpg"
-    },
-    {
-      "id": "laagam",
-      "nombre": "Laagam",
-      "web": "https://laagam.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Moda femenina atemporal: bolsos, abrigos y punto",
-      "origen": "Barcelona",
-      "precio": "€€€",
-      "imagen": "img/laagam.jpg"
-    },
-    {
-      "id": "micuir",
-      "nombre": "Micuir",
-      "web": "https://micuir.com",
-      "categoria": "Calzado",
-      "descripcion": "Botas y zapatos de piel hechos a mano, diseñados por Elena Peña",
-      "origen": "Madrid",
-      "precio": "€€€",
-      "imagen": "img/micuir.jpg"
-    },
-    {
-      "id": "labei",
-      "nombre": "Labei",
-      "web": "https://labeisosmetics.com",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Cosmética natural y sostenible desarrollada en su propio laboratorio",
-      "origen": "Oiartzun, Gipuzkoa",
-      "precio": "€€€",
-      "imagen": "img/labei.jpg"
-    },
-    {
-      "id": "artemesa",
-      "nombre": "ArteMesa",
-      "web": "https://artemesa.es",
+      "id": "palopalu",
+      "nombre": "Palopalú",
+      "web": "https://palopalu.com",
       "categoria": "Hogar y decoración",
-      "descripcion": "Vajilla de cerámica artesanal hecha a mano, pieza a pieza",
-      "origen": "España",
+      "descripcion": "Juguetes de madera y objetos de decoración hechos a mano",
+      "origen": "Bilbao",
       "precio": "€€",
-      "imagen": "img/artemesa.jpg"
+      "imagen": "img/palopalu.jpg"
     },
     {
       "id": "cobardes-y-gallinas",
@@ -1203,175 +483,164 @@
       "imagen": "img/cobardes-y-gallinas.jpg"
     },
     {
-      "id": "bangoloti",
-      "nombre": "Bangoloti",
-      "web": "https://bangoloti.com/",
-      "categoria": "Joyería",
-      "descripcion": "Alta bisutería de collares y gargantillas hecha en Málaga",
-      "origen": "Málaga",
-      "precio": "€€",
-      "imagen": "img/bangoloti.jpg"
-    },
-    {
-      "id": "canigooil",
-      "nombre": "Canigooil",
-      "web": "https://www.canigooil.com/",
-      "categoria": "Comida y bebida",
-      "descripcion": "Aceites aromatizados, salsas y confituras del Empordà",
-      "origen": "Agullana, Girona",
-      "precio": "€",
-      "imagen": "img/canigooil.jpg"
-    },
-    {
-      "id": "emolo",
-      "nombre": "Émolo",
-      "web": "https://www.emolo.es",
-      "categoria": "Joyería",
-      "descripcion": "Bisutería artesanal en latón, perlas y cerámica esmaltada",
-      "origen": "El Palmar, Murcia",
-      "precio": "€€",
-      "imagen": "img/emolo.jpg"
-    },
-    {
-      "id": "gardeniers",
-      "nombre": "Gardeniers",
-      "web": "https://organic.gardeniers.es/",
-      "categoria": "Comida y bebida",
-      "descripcion": "Cremas y conservas ecológicas hechas por personas con discapacidad",
-      "origen": "Zaragoza",
-      "precio": "€",
-      "imagen": "img/gardeniers.jpg"
-    },
-    {
-      "id": "tre-timber-toys",
-      "nombre": "Tré Timber Toys",
-      "web": "https://tretimbertoys.com",
-      "categoria": "Infantil",
-      "descripcion": "Juguetes y muebles infantiles de madera",
-      "origen": "España",
-      "precio": "€€€",
-      "imagen": "img/tre-timber-toys.jpg"
-    },
-    {
-      "id": "jabonalia",
-      "nombre": "Jabonalia",
-      "web": "https://jabonalia.es",
-      "categoria": "Cosmética y cuidado personal",
-      "descripcion": "Jabones y champús sólidos artesanos, sin plásticos",
-      "origen": "Barcelona",
-      "precio": "€",
-      "imagen": "img/jabonalia.jpg"
-    },
-    {
-      "id": "vocco",
-      "nombre": "Vocco",
-      "web": "https://www.voccoatelier.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Bolsas de viaje de lino natural, diseñadas y cosidas a mano",
-      "origen": "Barcelona",
-      "precio": "€€€",
-      "imagen": "img/vocco.jpg"
-    },
-    {
-      "id": "minimalism",
-      "nombre": "Minimalism",
-      "web": "https://minimalismbrand.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Básicos sostenibles sin logo, de algodón orgánico y lana reciclada",
-      "origen": "Madrid",
-      "precio": "€€",
-      "imagen": "img/minimalism.jpg"
-    },
-    {
-      "id": "secco",
-      "nombre": "Secco",
-      "web": "https://seccobrand.com",
-      "categoria": "Otros",
-      "descripcion": "Palas de pádel de carbono hechas a mano en España",
-      "origen": "Toledo",
-      "precio": "€€€",
-      "imagen": "img/secco.jpg"
-    },
-    {
-      "id": "senzia",
-      "nombre": "Senzia",
-      "web": "https://www.senzianatural.com/",
-      "categoria": "Comida y bebida",
-      "descripcion": "Caldo de huesos de vacuno deshidratado, original y golden",
-      "origen": "Soria",
-      "precio": "€",
-      "imagen": "img/senzia.jpg"
-    },
-    {
-      "id": "ikkelele",
-      "nombre": "Ikkelele",
-      "web": "https://ikkelele.com",
-      "categoria": "Joyería",
-      "descripcion": "Joyas únicas de inspiración étnica, hechas a mano",
-      "origen": "Elche, Alicante",
-      "precio": "€€",
-      "imagen": "img/ikkelele.jpg"
-    },
-    {
-      "id": "the-sangria-spritz",
-      "nombre": "The Sangria Spritz",
-      "web": "https://www.thesangriaspritz.com",
-      "categoria": "Comida y bebida",
-      "descripcion": "Sangría espumosa de receta nueva, en botellín o de grifo: clásica, rosa o amarga",
-      "origen": "España",
-      "precio": "€",
-      "imagen": "img/the-sangria-spritz.jpg"
-    },
-    {
-      "id": "tcolors",
-      "nombre": "TColors",
-      "web": "https://tcolors.net/",
-      "categoria": "Otros",
-      "descripcion": "Pinturas para manualidades de una cooperativa de inclusión laboral",
-      "origen": "Barcelona",
-      "precio": "€",
-      "imagen": "img/tcolors.jpg"
-    },
-    {
-      "id": "sepiia",
-      "nombre": "Sepiia",
-      "web": "https://sepiia.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Ropa inteligente que no se mancha, no se arruga ni huele",
-      "origen": "Madrid",
-      "precio": "€€€",
-      "imagen": "img/sepiia.jpg"
-    },
-    {
-      "id": "mates",
-      "nombre": "MaTeS",
-      "web": "https://www.mates.cat/",
+      "id": "pompeii",
+      "nombre": "Pompeii",
+      "web": "https://pompeiibrand.com",
       "categoria": "Calzado",
-      "descripcion": "Zapatillas deportivas artesanas cosidas en Sants desde 1947",
+      "descripcion": "Zapatillas y ropa de streetwear refinado nacidas en Madrid",
+      "origen": "Madrid",
+      "precio": "€€€",
+      "imagen": "img/pompeii.jpg"
+    },
+    {
+      "id": "dorigen",
+      "nombre": "D·Origen Coffee",
+      "web": "https://dorigencoffee.es",
+      "categoria": "Comida y bebida",
+      "descripcion": "Café de especialidad recién tostado, con finca propia en Panamá",
+      "origen": "El Albir, Alicante",
+      "precio": "€",
+      "imagen": "img/dorigen.jpg"
+    },
+    {
+      "id": "teresa-rossell",
+      "nombre": "Teresa Rossell",
+      "web": "https://www.instagram.com/teresarossell.artis/",
+      "categoria": "Otros",
+      "descripcion": "Ilustraciones originales a lápiz y tinta de flores y santos",
+      "origen": "Santillana del Mar, Cantabria",
+      "precio": "€€",
+      "imagen": "img/teresa-rossell.jpg"
+    },
+    {
+      "id": "edmmond-studios",
+      "nombre": "Edmmond Studios",
+      "web": "https://edmmond.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Básicos masculinos contemporáneos pensados para durar",
+      "origen": "Madrid",
+      "precio": "€€€",
+      "imagen": "img/edmmond-studios.jpg"
+    },
+    {
+      "id": "flowel",
+      "nombre": "Flowel",
+      "web": "https://flowelbrand.com/",
+      "categoria": "Moda y complementos",
+      "descripcion": "Toallas y pareos de playa con materiales reciclados",
+      "origen": "Alicante",
+      "precio": "€",
+      "imagen": "img/flowel.jpg"
+    },
+    {
+      "id": "pitusas",
+      "nombre": "Pitusas",
+      "web": "https://www.pitusas.es",
+      "categoria": "Calzado",
+      "descripcion": "Alpargatas y espadrilles hechas a mano",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/pitusas.jpg"
+    },
+    {
+      "id": "klitie",
+      "nombre": "Klitie",
+      "web": "https://klitie.com",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Velas artesanales de colza, sets regalo y talleres florales",
+      "origen": "Leganés, Madrid",
+      "precio": "€€",
+      "imagen": "img/klitie.jpg"
+    },
+    {
+      "id": "cristian-morillo",
+      "nombre": "Cristian Morillo",
+      "web": "https://www.instagram.com/mc_cristianmorillo/",
+      "categoria": "Calzado",
+      "descripcion": "Zapatos, bolsos y carteras artesanales hechos a medida",
+      "origen": "Benifaió, Valencia",
+      "precio": "€€€",
+      "imagen": "img/cristian-morillo.jpg"
+    },
+    {
+      "id": "the-ink",
+      "nombre": "The Ink",
+      "web": "https://theink.es",
+      "categoria": "Joyería",
+      "descripcion": "Joyas artesanales de plata hechas a mano a la cera perdida",
+      "origen": "Madrid",
+      "precio": "€€€",
+      "imagen": "img/the-ink.jpg"
+    },
+    {
+      "id": "embutidos-guareno",
+      "nombre": "Embutidos Guareño",
+      "web": "https://embutidosguareno.com/",
+      "categoria": "Comida y bebida",
+      "descripcion": "Jamones, chorizos y embutidos ibéricos artesanales extremeños",
+      "origen": "Fuente de Cantos, Badajoz",
+      "precio": "€€",
+      "imagen": "img/embutidos-guareno.jpg"
+    },
+    {
+      "id": "laagam",
+      "nombre": "Laagam",
+      "web": "https://laagam.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Moda femenina atemporal: bolsos, abrigos y punto",
       "origen": "Barcelona",
       "precio": "€€€",
-      "imagen": "img/mates.jpg",
-      "ancha": true
+      "imagen": "img/laagam.jpg"
     },
     {
-      "id": "lolos",
-      "nombre": "LOLO'S",
-      "web": "https://lslolos.com",
-      "categoria": "Mascotas",
-      "descripcion": "Collares y correas de tejido fabricados en su propio taller",
+      "id": "herencia",
+      "nombre": "Herencia Handmade",
+      "web": "https://www.instagram.com/herencia_handmadewithlove/",
+      "categoria": "Moda y complementos",
+      "descripcion": "Chales y prendas de croché tejidas a mano por encargo",
       "origen": "España",
-      "precio": "€",
-      "imagen": "img/lolos.jpg"
+      "precio": "€€",
+      "imagen": "img/herencia.jpg"
     },
     {
-      "id": "xixarito",
-      "nombre": "Xixarito",
-      "web": "https://bodegasbaron.es/pages/gama-xixarito",
-      "categoria": "Comida y bebida",
-      "descripcion": "Vinos de Jerez y manzanilla de Bodegas Barón con larga crianza",
-      "origen": "Sanlúcar de Barrameda, Cádiz",
+      "id": "kianu-jasper",
+      "nombre": "Kianu Jasper",
+      "web": "https://kianujasper.com/",
+      "categoria": "Joyería",
+      "descripcion": "Joyería fina en plata y oro hecha a mano",
+      "origen": "Barcelona",
+      "precio": "€€€",
+      "imagen": "img/kianu-jasper.jpg"
+    },
+    {
+      "id": "sierra-de-lana",
+      "nombre": "Sierra de Lana",
+      "web": "https://sierradelana.com/",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Edredones, lanas y piezas tejidas con lana autóctona de Cuenca",
+      "origen": "Laguna del Marquesado, Cuenca",
+      "precio": "€€€",
+      "imagen": "img/sierra-de-lana.jpg"
+    },
+    {
+      "id": "alma-secret",
+      "nombre": "Alma Secret",
+      "web": "https://www.almasecret.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Cosmética natural y ecológica que fabrican ellos mismos",
+      "origen": "Librilla, Murcia",
       "precio": "€",
-      "imagen": "img/xixarito.jpg"
+      "imagen": "img/alma-secret.jpg"
+    },
+    {
+      "id": "mar-montenegro",
+      "nombre": "Mar Montenegro",
+      "web": "https://marmontenegro.com",
+      "categoria": "Joyería",
+      "descripcion": "Joyas de porcelana hechas a mano",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/mar-montenegro.jpg"
     },
     {
       "id": "maar",
@@ -1384,104 +653,44 @@
       "imagen": "img/maar.jpg"
     },
     {
-      "id": "darome",
-      "nombre": "D'Arome",
-      "web": "https://www.darome.es/",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Ambientadores, mikados y aromas para perfumar la casa",
-      "origen": "Alhama de Murcia, Murcia",
-      "precio": "€",
-      "imagen": "img/darome.jpg"
-    },
-    {
-      "id": "floco-coffee",
-      "nombre": "Floco Coffee",
-      "web": "https://flococoffee.com",
+      "id": "quesos-lavega",
+      "nombre": "Quesos Lavega",
+      "web": "https://www.quesoslavega.com",
       "categoria": "Comida y bebida",
-      "descripcion": "Café de especialidad tostado de forma natural, y tés premium",
-      "origen": "Badajoz",
+      "descripcion": "Quesos artesanos de oveja y vaca con leche de Castilla y León",
+      "origen": "Moslares de la Vega, Palencia",
       "precio": "€",
-      "imagen": "img/floco-coffee.jpg"
+      "imagen": "img/quesos-lavega.jpg"
     },
     {
-      "id": "adarbakar",
-      "nombre": "Adarbakar",
-      "web": "https://adarbakar.com",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Piezas únicas de cerámica hechas a mano: vajilla, lámparas y objetos",
-      "origen": "Barcelona",
-      "precio": "€€€",
-      "imagen": "img/adarbakar.jpg"
-    },
-    {
-      "id": "gamuza",
-      "nombre": "Gamuza",
-      "web": "https://gamuzacraft.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Bolsos y objetos de cuero hechos con pieles que la industria descarta",
-      "origen": "España",
-      "precio": "€€",
-      "imagen": "img/gamuza.jpg"
-    },
-    {
-      "id": "margui-brand",
-      "nombre": "Margui Brand",
-      "web": "https://marguibrand.com",
-      "categoria": "Joyería",
-      "descripcion": "Joyas mediterráneas hechas a mano una a una",
-      "origen": "Málaga",
-      "precio": "€€",
-      "imagen": "img/margui-brand.jpg"
-    },
-    {
-      "id": "eturel",
-      "nombre": "Eturel",
-      "web": "https://eturel.com",
-      "categoria": "Hogar y decoración",
-      "descripcion": "Decoración artesanal con cerámica y textiles de talleres tradicionales",
-      "origen": "Madrid",
-      "precio": "€€",
-      "imagen": "img/eturel.jpg"
-    },
-    {
-      "id": "timpers",
-      "nombre": "Timpers",
-      "web": "https://www.timpersbrand.com",
+      "id": "mibo",
+      "nombre": "Mibo",
+      "web": "https://www.abarcasmenorquinas.com",
       "categoria": "Calzado",
-      "descripcion": "Zapatillas diseñadas por personas ciegas",
-      "origen": "Valencia",
+      "descripcion": "Avarcas menorquinas hechas en la isla desde 1998",
+      "origen": "Es Migjorn Gran, Menorca",
       "precio": "€€",
-      "imagen": "img/timpers.jpg"
+      "imagen": "img/mibo.jpg"
     },
     {
-      "id": "the-pichichi-company",
-      "nombre": "The Pichichi Company",
-      "web": "https://www.thepichichicompany.com",
-      "categoria": "Otros",
-      "descripcion": "Muñecos de futbolín pintados a mano, personalizables con tu equipo",
-      "origen": "España",
-      "precio": "€€",
-      "imagen": "img/the-pichichi-company.jpg"
-    },
-    {
-      "id": "sutran-technology",
-      "nombre": "Sutran Technology",
-      "web": "https://sutrantechnology.com",
-      "categoria": "Moda y complementos",
-      "descripcion": "Camisetas y camisas antisudor y antiolor con tecnología patentada",
-      "origen": "Cabrera de Mar, Barcelona",
-      "precio": "€€",
-      "imagen": "img/sutran-technology.jpg"
-    },
-    {
-      "id": "wooldreamers",
-      "nombre": "Wooldreamers",
-      "web": "https://wooldreamers.com/",
-      "categoria": "Otros",
-      "descripcion": "Hilo y telas de lana de rebaños locales, hilada en casa",
-      "origen": "Mota del Cuervo, Cuenca",
+      "id": "ineffable-coffee",
+      "nombre": "Ineffable Coffee",
+      "web": "https://ineffablecoffee.com",
+      "categoria": "Comida y bebida",
+      "descripcion": "Café de especialidad de los campeones de tueste de España 2024",
+      "origen": "Dos Hermanas, Sevilla",
       "precio": "€",
-      "imagen": "img/wooldreamers.jpg"
+      "imagen": "img/ineffable-coffee.jpg"
+    },
+    {
+      "id": "matarrania",
+      "nombre": "Matarrania",
+      "web": "https://matarrania.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Cosmética ecológica certificada 100 % bio y de kilómetro cero",
+      "origen": "Peñarroya de Tastavins, Teruel",
+      "precio": "€",
+      "imagen": "img/matarrania.jpg"
     },
     {
       "id": "mamitis",
@@ -1494,14 +703,845 @@
       "imagen": "img/mamitis.jpg"
     },
     {
-      "id": "teresa-rossell",
-      "nombre": "Teresa Rossell",
-      "web": "https://www.instagram.com/teresarossell.artis/",
-      "categoria": "Otros",
-      "descripcion": "Ilustraciones originales a lápiz y tinta de flores y santos",
-      "origen": "Santillana del Mar, Cantabria",
+      "id": "saper",
+      "nombre": "Såper",
+      "web": "https://www.saper.es",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Cosmética ecológica certificada y vegana: sérums y cremas faciales para piel sensible, hechos en su laboratorio",
+      "origen": "Uceda, Guadalajara",
       "precio": "€€",
-      "imagen": "img/teresa-rossell.jpg"
+      "imagen": "img/saper.jpg"
+    },
+    {
+      "id": "legumbres-espino",
+      "nombre": "Legumbres Espino",
+      "web": "https://legumbresespino.com/",
+      "categoria": "Comida y bebida",
+      "descripcion": "Garbanzos, lentejas y alubias cultivados en su propia finca",
+      "origen": "Espino de la Orbada, Salamanca",
+      "precio": "€",
+      "imagen": "img/legumbres-espino.jpg"
+    },
+    {
+      "id": "el-silencio-de-las-flores",
+      "nombre": "El Silencio de las Flores",
+      "web": "https://www.instagram.com/elsilenciodelasfloress/",
+      "categoria": "Joyería",
+      "descripcion": "Joyas y regalos hechos a mano con flores naturales",
+      "origen": "España",
+      "precio": "€",
+      "imagen": "img/el-silencio-de-las-flores.jpg"
+    },
+    {
+      "id": "secco",
+      "nombre": "Secco",
+      "web": "https://seccobrand.com",
+      "categoria": "Otros",
+      "descripcion": "Palas de pádel de carbono hechas a mano en España",
+      "origen": "Toledo",
+      "precio": "€€€",
+      "imagen": "img/secco.jpg"
+    },
+    {
+      "id": "extinto",
+      "nombre": "Extinto",
+      "web": "https://extinto.es",
+      "categoria": "Papelería y libros",
+      "descripcion": "Cuadernos de dibujo encuadernados a mano uno a uno, en ediciones limitadas y con papeles de calidad",
+      "origen": "Zaragoza",
+      "precio": "€",
+      "imagen": "img/extinto.jpg"
+    },
+    {
+      "id": "zahati",
+      "nombre": "Zahati",
+      "web": "https://zahati.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Sombreros y bolsos de paja de trigo trenzada a mano",
+      "origen": "Gata de Gorgos, Alicante",
+      "precio": "€€",
+      "imagen": "img/zahati.jpg"
+    },
+    {
+      "id": "parenzo",
+      "nombre": "Parenzo",
+      "web": "https://www.parenzo.es",
+      "categoria": "Moda y complementos",
+      "descripcion": "Bolsos de piel hechos a mano por artesanos de Ubrique",
+      "origen": "Ubrique, Cádiz",
+      "precio": "€€€",
+      "imagen": "img/parenzo.jpg"
+    },
+    {
+      "id": "karetta-maluca",
+      "nombre": "Karetta Maluca",
+      "web": "https://karettamaluca.com",
+      "categoria": "Comida y bebida",
+      "descripcion": "Vino con causa, de agricultura ecológica: cada botella apoya un proyecto de conservación de fauna salvaje",
+      "origen": "Alicante",
+      "precio": "€",
+      "imagen": "img/karetta-maluca.jpg"
+    },
+    {
+      "id": "happy-swallow",
+      "nombre": "Happy Swallow",
+      "web": "https://happyswallow.com",
+      "categoria": "Mascotas",
+      "descripcion": "Camas de madera y comederos personalizados, hechos a mano",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/happy-swallow.jpg"
+    },
+    {
+      "id": "dehesia",
+      "nombre": "Dehesia",
+      "web": "https://dehesia.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Cosmética BIO con plantas medicinales de la dehesa extremeña",
+      "origen": "Cáceres",
+      "precio": "€",
+      "imagen": "img/dehesia.jpg"
+    },
+    {
+      "id": "cultivo-desterrado",
+      "nombre": "Cultivo Desterrado",
+      "web": "https://cultivodesterrado.es",
+      "categoria": "Comida y bebida",
+      "descripcion": "Hortalizas de navazo, una huerta costera casi extinta recuperada",
+      "origen": "Sanlúcar de Barrameda, Cádiz",
+      "precio": "€€",
+      "imagen": "img/cultivo-desterrado.jpg"
+    },
+    {
+      "id": "magician-woman-ink",
+      "nombre": "Magician Woman Ink",
+      "web": "https://magicianwomanink.com",
+      "categoria": "Papelería y libros",
+      "descripcion": "Serigrafías hechas a mano: láminas, bolsas y camisetas ilustradas",
+      "origen": "Barcelona",
+      "precio": "€",
+      "imagen": "img/magician-woman-ink.jpg"
+    },
+    {
+      "id": "petita-guilla",
+      "nombre": "Petita Guilla",
+      "web": "https://petitaguilla.com",
+      "categoria": "Infantil",
+      "descripcion": "Juguetes de madera pintados a mano en taller familiar",
+      "origen": "Sant Hilari Sacalm, Girona",
+      "precio": "€€",
+      "imagen": "img/petita-guilla.jpg"
+    },
+    {
+      "id": "manolito-basics",
+      "nombre": "Manolito Basics",
+      "web": "https://manolitobasics.com",
+      "categoria": "Calzado",
+      "descripcion": "Mocasines ligeros de ante, hechos a mano",
+      "origen": "España",
+      "precio": "€€€",
+      "imagen": "img/manolito-basics.jpg"
+    },
+    {
+      "id": "book-and-glow",
+      "nombre": "Book & Glow",
+      "web": "https://bookandglow.com",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Velas aromáticas veganas vertidas a mano una a una",
+      "origen": "San Sebastián, Gipuzkoa",
+      "precio": "€",
+      "imagen": "img/book-and-glow.jpg"
+    },
+    {
+      "id": "canttinela",
+      "nombre": "Canttinela",
+      "web": "https://canttinela.com",
+      "categoria": "Calzado",
+      "descripcion": "Zapatillas artesanas hechas con calma en un pueblo de Huelva",
+      "origen": "Huelva",
+      "precio": "€€",
+      "imagen": "img/canttinela.jpg"
+    },
+    {
+      "id": "maminat",
+      "nombre": "Maminat",
+      "web": "https://maminat.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Cosmética natural y ecológica con recargas para reducir envases",
+      "origen": "Valencia",
+      "precio": "€",
+      "imagen": "img/maminat.jpg"
+    },
+    {
+      "id": "paula-yera",
+      "nombre": "Paula Yera",
+      "web": "https://paulayera.com",
+      "categoria": "Joyería",
+      "descripcion": "Joyería de autor en plata con piedras en bruto",
+      "origen": "Zaragoza",
+      "precio": "€€",
+      "imagen": "img/paula-yera.jpg"
+    },
+    {
+      "id": "trepille",
+      "nombre": "Trepillé",
+      "web": "https://www.trepille.com",
+      "categoria": "Joyería",
+      "descripcion": "Joyas y accesorios de autor hechos pieza a pieza",
+      "origen": "Bigues i Riells, Barcelona",
+      "precio": "€€",
+      "imagen": "img/trepille.jpg"
+    },
+    {
+      "id": "sutran-technology",
+      "nombre": "Sutran Technology",
+      "web": "https://sutrantechnology.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Camisetas y camisas antisudor y antiolor con tecnología patentada",
+      "origen": "Cabrera de Mar, Barcelona",
+      "precio": "€€",
+      "imagen": "img/sutran-technology.jpg"
+    },
+    {
+      "id": "dos-manos",
+      "nombre": "Dos Manos",
+      "web": "https://www.editorialdosmanos.com",
+      "categoria": "Papelería y libros",
+      "descripcion": "Editorial independiente de ficción contemporánea y rescates literarios",
+      "origen": "Barcelona",
+      "precio": "€",
+      "imagen": "img/dos-manos.jpg"
+    },
+    {
+      "id": "emolo",
+      "nombre": "Émolo",
+      "web": "https://www.emolo.es",
+      "categoria": "Joyería",
+      "descripcion": "Bisutería artesanal en latón, perlas y cerámica esmaltada",
+      "origen": "El Palmar, Murcia",
+      "precio": "€€",
+      "imagen": "img/emolo.jpg"
+    },
+    {
+      "id": "banbu",
+      "nombre": "Banbu",
+      "web": "https://banbu.es",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Cosmética sólida, vegana y sin plástico, certificada ecológica",
+      "origen": "Torrelavega, Cantabria",
+      "precio": "€",
+      "imagen": "img/banbu.jpg"
+    },
+    {
+      "id": "lantana-atelier",
+      "nombre": "Lantana Atelier",
+      "web": "https://www.lantanaatelier.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Bikinis reversibles de nailon regenerado, hechos en fábricas familiares españolas",
+      "origen": "Alicante",
+      "precio": "€€",
+      "imagen": "img/lantana-atelier.jpg"
+    },
+    {
+      "id": "el-obrador-de-momo",
+      "nombre": "El Obrador de Momo",
+      "web": "https://www.elobradordemomo.com",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Cerámica de autor hecha y pintada a mano",
+      "origen": "Montemayor del Río, Salamanca",
+      "precio": "€€",
+      "imagen": "img/el-obrador-de-momo.jpg"
+    },
+    {
+      "id": "delenzo",
+      "nombre": "dE.LENZO",
+      "web": "https://delenzo.es",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Ropa de hogar de lino y mantas de merino cosidas en taller",
+      "origen": "Alcoy, Alicante",
+      "precio": "€€",
+      "imagen": "img/delenzo.jpg"
+    },
+    {
+      "id": "suagongo",
+      "nombre": "Suagongo",
+      "web": "https://suagongo.com",
+      "categoria": "Joyería",
+      "descripcion": "Joyería contemporánea impresa en 3D en su propio estudio",
+      "origen": "Galicia",
+      "precio": "€€",
+      "imagen": "img/suagongo.jpg"
+    },
+    {
+      "id": "mendi",
+      "nombre": "Mendi",
+      "web": "https://www.escobasmendi.com/",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Escobas de mijo hechas a mano por cuatro generaciones",
+      "origen": "Valtierra, Navarra",
+      "precio": "€",
+      "imagen": "img/mendi.jpg"
+    },
+    {
+      "id": "puru-remangu",
+      "nombre": "Puru Remangu",
+      "web": "https://pururemangu.com/",
+      "categoria": "Moda y complementos",
+      "descripcion": "Sudaderas, camisetas y gorros con identidad asturiana",
+      "origen": "Gijón, Asturias",
+      "precio": "€€",
+      "imagen": "img/puru-remangu.jpg"
+    },
+    {
+      "id": "miradorio",
+      "nombre": "Miradorio",
+      "web": "https://miradorio.com",
+      "categoria": "Comida y bebida",
+      "descripcion": "Bodega familiar: vinos blancos de la costa cántabra y catas",
+      "origen": "Ruiloba, Cantabria",
+      "precio": "€",
+      "imagen": "img/miradorio.jpg"
+    },
+    {
+      "id": "casa-de-mendoza",
+      "nombre": "Casa de Mendoza",
+      "web": "https://casademendoza.es/",
+      "categoria": "Comida y bebida",
+      "descripcion": "Aceite de oliva virgen extra ecológico de una finca manchega",
+      "origen": "Socuéllamos, Ciudad Real",
+      "precio": "€",
+      "imagen": "img/casa-de-mendoza.jpg"
+    },
+    {
+      "id": "micuir",
+      "nombre": "Micuir",
+      "web": "https://micuir.com",
+      "categoria": "Calzado",
+      "descripcion": "Botas y zapatos de piel hechos a mano, diseñados por Elena Peña",
+      "origen": "Madrid",
+      "precio": "€€€",
+      "imagen": "img/micuir.jpg"
+    },
+    {
+      "id": "gardeniers",
+      "nombre": "Gardeniers",
+      "web": "https://organic.gardeniers.es/",
+      "categoria": "Comida y bebida",
+      "descripcion": "Cremas y conservas ecológicas hechas por personas con discapacidad",
+      "origen": "Zaragoza",
+      "precio": "€",
+      "imagen": "img/gardeniers.jpg"
+    },
+    {
+      "id": "dlana",
+      "nombre": "dLana",
+      "web": "https://dlana.es",
+      "categoria": "Otros",
+      "descripcion": "Lana merina española para tejer, hilada en su propio taller",
+      "origen": "Arroyo de Cuéllar, Segovia",
+      "precio": "€",
+      "imagen": "img/dlana.jpg"
+    },
+    {
+      "id": "antiqua",
+      "nombre": "Antiqüa",
+      "web": "https://antiqua.store",
+      "categoria": "Joyería",
+      "descripcion": "Joyería en oro de 18 quilates y piedras preciosas",
+      "origen": "Madrid",
+      "precio": "€€€",
+      "imagen": "img/antiqua.jpg"
+    },
+    {
+      "id": "timpers",
+      "nombre": "Timpers",
+      "web": "https://www.timpersbrand.com",
+      "categoria": "Calzado",
+      "descripcion": "Zapatillas diseñadas por personas ciegas",
+      "origen": "Valencia",
+      "precio": "€€",
+      "imagen": "img/timpers.jpg"
+    },
+    {
+      "id": "ybernia",
+      "nombre": "Ybernia",
+      "web": "https://www.ybernia.com/",
+      "categoria": "Papelería y libros",
+      "descripcion": "Editorial independiente de libros en inglés y español",
+      "origen": "Madrid",
+      "precio": "€",
+      "imagen": "img/ybernia.jpg"
+    },
+    {
+      "id": "vocco",
+      "nombre": "Vocco",
+      "web": "https://www.voccoatelier.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Bolsas de viaje de lino natural, diseñadas y cosidas a mano",
+      "origen": "Barcelona",
+      "precio": "€€€",
+      "imagen": "img/vocco.jpg"
+    },
+    {
+      "id": "tiwel",
+      "nombre": "Tiwel",
+      "web": "https://tiwel.es",
+      "categoria": "Moda y complementos",
+      "descripcion": "Ropa streetwear y casual con su icónico peón de ajedrez",
+      "origen": "San Fernando de Henares, Madrid",
+      "precio": "€€",
+      "imagen": "img/tiwel.jpg"
+    },
+    {
+      "id": "canigooil",
+      "nombre": "Canigooil",
+      "web": "https://www.canigooil.com/",
+      "categoria": "Comida y bebida",
+      "descripcion": "Aceites aromatizados, salsas y confituras del Empordà",
+      "origen": "Agullana, Girona",
+      "precio": "€",
+      "imagen": "img/canigooil.jpg"
+    },
+    {
+      "id": "romualda",
+      "nombre": "Romualda",
+      "web": "https://romualda.es",
+      "categoria": "Moda y complementos",
+      "descripcion": "Sombreros reversibles con estampados pintados a mano",
+      "origen": "Madrid",
+      "precio": "€€",
+      "imagen": "img/romualda.jpg"
+    },
+    {
+      "id": "natvral-lavde",
+      "nombre": "Natvral Lavde",
+      "web": "https://natvral-lavde.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Dermocosmética natural con probióticos: sérums, brumas y tratamientos faciales y corporales",
+      "origen": "Elche, Alicante",
+      "precio": "€€",
+      "imagen": "img/natvral-lavde.jpg"
+    },
+    {
+      "id": "llibelle",
+      "nombre": "Llibelle",
+      "web": "https://llibelle.com",
+      "categoria": "Papelería y libros",
+      "descripcion": "Libretas y carteras de piel cosidas a mano",
+      "origen": "Monóvar, Alicante",
+      "precio": "€€",
+      "imagen": "img/llibelle.jpg"
+    },
+    {
+      "id": "sepiia",
+      "nombre": "Sepiia",
+      "web": "https://sepiia.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Ropa inteligente que no se mancha, no se arruga ni huele",
+      "origen": "Madrid",
+      "precio": "€€€",
+      "imagen": "img/sepiia.jpg"
+    },
+    {
+      "id": "intre",
+      "nombre": "Intre",
+      "web": "https://intre.es",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Objetos cotidianos de diseño: tazas ilustradas, cuencos y más",
+      "origen": "Meira, Lugo",
+      "precio": "€€",
+      "imagen": "img/intre.jpg"
+    },
+    {
+      "id": "segarra-joyeros",
+      "nombre": "Segarra Joyeros",
+      "web": "https://segarrajoyeros.com",
+      "categoria": "Joyería",
+      "descripcion": "Joyería familiar desde 1939 con piezas por encargo hechas a mano",
+      "origen": "Valencia",
+      "precio": "€€€",
+      "imagen": "img/segarra-joyeros.jpg"
+    },
+    {
+      "id": "luisa",
+      "nombre": "Luisa",
+      "web": "https://weareluisa.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Un limpiador de doble limpieza con hierba luisa y enzimas de papaya, vegano y pensado para simplificar la rutina",
+      "origen": "Allariz, Ourense",
+      "precio": "€€",
+      "imagen": "img/luisa.jpg"
+    },
+    {
+      "id": "milagritos",
+      "nombre": "Milagritos",
+      "web": "https://milagritos.store",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Velas de soja y coco hechas a mano, con caja regalo",
+      "origen": "Barcelona",
+      "precio": "€",
+      "imagen": "img/milagritos.jpg"
+    },
+    {
+      "id": "monatabu",
+      "nombre": "Monatabu",
+      "web": "https://monatabu.es",
+      "categoria": "Infantil",
+      "descripcion": "Muñecas de trapo y de apego cosidas en taller familiar",
+      "origen": "San Cristóbal de Segovia",
+      "precio": "€",
+      "imagen": "img/monatabu.jpg"
+    },
+    {
+      "id": "ownia",
+      "nombre": "Ownia Cosmetics",
+      "web": "https://owniacosmetics.com/",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Cosmética facial para piel sensible basada en el microbioma",
+      "origen": "Madrid",
+      "precio": "€€",
+      "imagen": "img/ownia.jpg"
+    },
+    {
+      "id": "labei",
+      "nombre": "Labei",
+      "web": "https://labeisosmetics.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Cosmética natural y sostenible desarrollada en su propio laboratorio",
+      "origen": "Oiartzun, Gipuzkoa",
+      "precio": "€€€",
+      "imagen": "img/labei.jpg"
+    },
+    {
+      "id": "oobuka",
+      "nombre": "Oobuka",
+      "web": "https://www.oobuka.com/",
+      "categoria": "Moda y complementos",
+      "descripcion": "Bolsos, mochilas y accesorios de piel hechos a mano",
+      "origen": "Valencia",
+      "precio": "€€€",
+      "imagen": "img/oobuka.jpg"
+    },
+    {
+      "id": "qosmic",
+      "nombre": "Qosmic",
+      "web": "https://qosmicbrand.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Bolsos y accesorios atemporales de piel vegana de uva",
+      "origen": "Alcobendas, Madrid",
+      "precio": "€€€",
+      "imagen": "img/qosmic.jpg"
+    },
+    {
+      "id": "cocol",
+      "nombre": "Cocol",
+      "web": "https://cocolmadrid.es",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Artesanía tradicional española reinterpretada: cerámica, botijos, abanicos y cestería",
+      "origen": "Madrid",
+      "precio": "€€",
+      "imagen": "img/cocol.jpg"
+    },
+    {
+      "id": "capa-cardena",
+      "nombre": "Capa Cárdena",
+      "web": "https://capacardena.com",
+      "categoria": "Comida y bebida",
+      "descripcion": "Carne de vaca morucha de ganadería regenerativa propia",
+      "origen": "Carrascal del Obispo, Salamanca",
+      "precio": "€€",
+      "imagen": "img/capa-cardena.jpg"
+    },
+    {
+      "id": "gozo",
+      "nombre": "GOZO",
+      "web": "https://holagozo.com",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Flores y plantas a domicilio, y tú eliges el día",
+      "origen": "Sant Boi de Llobregat, Barcelona",
+      "precio": "€€",
+      "imagen": "img/gozo.jpg"
+    },
+    {
+      "id": "centro-ceramico-talavera",
+      "nombre": "Centro Cerámico Talavera",
+      "web": "https://www.ceramicatalavera.es",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Cerámica artesanal de Talavera hecha en su taller desde 1992",
+      "origen": "Talavera de la Reina, Toledo",
+      "precio": "€€€",
+      "imagen": "img/centro-ceramico-talavera.jpg"
+    },
+    {
+      "id": "capitan-denim",
+      "nombre": "Capitán Denim",
+      "web": "https://capitandenim.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Vaqueros sostenibles fabricados en su propia fábrica de Albacete",
+      "origen": "Madrigueras, Albacete",
+      "precio": "€€",
+      "imagen": "img/capitan-denim.jpg"
+    },
+    {
+      "id": "ideimperfecta",
+      "nombre": "IDEimperfecta",
+      "web": "https://www.ideimperfecta.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Cosmética natural, sólida y artesana hecha en Valladolid",
+      "origen": "Valladolid",
+      "precio": "€",
+      "imagen": "img/ideimperfecta.jpg"
+    },
+    {
+      "id": "crabs-company",
+      "nombre": "Crabs Company",
+      "web": "https://crabscompany.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Bañadores estampados de fantasía, camisetas y gorras para el verano",
+      "origen": "Mallorca",
+      "precio": "€€",
+      "imagen": "img/crabs-company.jpg"
+    },
+    {
+      "id": "juia-jewels",
+      "nombre": "Juia Jewels",
+      "web": "https://juiajewels.com",
+      "categoria": "Joyería",
+      "descripcion": "Joyería ética en plata y oro Fairmined, hecha en su taller de Sant Andreu",
+      "origen": "Barcelona",
+      "precio": "€€€",
+      "imagen": "img/juia-jewels.jpg"
+    },
+    {
+      "id": "toca-jugar-madera",
+      "nombre": "Toca Jugar Madera",
+      "web": "https://tocajugarmadera.es",
+      "categoria": "Infantil",
+      "descripcion": "Juegos artesanales de madera para jugar en familia y al aire libre",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/toca-jugar-madera.jpg"
+    },
+    {
+      "id": "salad-code",
+      "nombre": "Salad Code",
+      "web": "https://www.saladcode.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Cosmética vegana con superalimentos: aguacate, espinaca o kiwi",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/salad-code.jpg"
+    },
+    {
+      "id": "alfonso-postigo",
+      "nombre": "Alfonso Postigo",
+      "web": "https://shop.alfonso-postigo.com/",
+      "categoria": "Otros",
+      "descripcion": "Collages originales hechos a mano con recortes fotográficos",
+      "origen": "Logroño, La Rioja",
+      "precio": "€€€",
+      "imagen": "img/alfonso-postigo.jpg"
+    },
+    {
+      "id": "bitxo-bola",
+      "nombre": "Bitxo Bola",
+      "web": "https://bitxobola.com",
+      "categoria": "Infantil",
+      "descripcion": "Ropa infantil de algodón ecológico hecha en su tienda-taller",
+      "origen": "Bilbao, Bizkaia",
+      "precio": "€€",
+      "imagen": "img/bitxo-bola.jpg"
+    },
+    {
+      "id": "companion-denim",
+      "nombre": "Companion Denim",
+      "web": "https://companiondenim.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Vaqueros a medida de tela selvedge, hechos en su taller",
+      "origen": "Barcelona",
+      "precio": "€€€",
+      "imagen": "img/companion-denim.jpg"
+    },
+    {
+      "id": "minima-organics",
+      "nombre": "Mínima Organics",
+      "web": "https://www.minimaorganics.com",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Pasta de dientes en polvo e higiene dental sin residuos",
+      "origen": "Barcelona",
+      "precio": "€",
+      "imagen": "img/minima-organics.jpg"
+    },
+    {
+      "id": "artemesa",
+      "nombre": "ArteMesa",
+      "web": "https://artemesa.es",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Vajilla de cerámica artesanal hecha a mano, pieza a pieza",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/artemesa.jpg"
+    },
+    {
+      "id": "eturel",
+      "nombre": "Eturel",
+      "web": "https://eturel.com",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Decoración artesanal con cerámica y textiles de talleres tradicionales",
+      "origen": "Madrid",
+      "precio": "€€",
+      "imagen": "img/eturel.jpg"
+    },
+    {
+      "id": "miso",
+      "nombre": "Miso",
+      "web": "https://misosocks.com/",
+      "categoria": "Moda y complementos",
+      "descripcion": "Calcetines de lana, algodón y brillo con colores mediterráneos",
+      "origen": "Burgos",
+      "precio": "€",
+      "imagen": "img/miso.jpg"
+    },
+    {
+      "id": "mitumi",
+      "nombre": "Mitumi",
+      "web": "https://mitumijoyas.com/",
+      "categoria": "Joyería",
+      "descripcion": "Pendientes de diseño propio superligeros y coloridos",
+      "origen": "Valencia",
+      "precio": "€€",
+      "imagen": "img/mitumi.jpg"
+    },
+    {
+      "id": "grapat",
+      "nombre": "Grapat",
+      "web": "https://shop.grapat.eu/es/inicio",
+      "categoria": "Infantil",
+      "descripcion": "Juguetes de madera pintados a mano para jugar imaginando",
+      "origen": "Girona",
+      "precio": "€",
+      "imagen": "img/grapat.jpg"
+    },
+    {
+      "id": "jabonalia",
+      "nombre": "Jabonalia",
+      "web": "https://jabonalia.es",
+      "categoria": "Cosmética y cuidado personal",
+      "descripcion": "Jabones y champús sólidos artesanos, sin plásticos",
+      "origen": "Barcelona",
+      "precio": "€",
+      "imagen": "img/jabonalia.jpg"
+    },
+    {
+      "id": "embutidos-la-matillana",
+      "nombre": "Embutidos La Matillana",
+      "web": "https://www.embutidoslamatillana.com/",
+      "categoria": "Comida y bebida",
+      "descripcion": "Chorizo, lomo y morcilla artesanos curados en la sierra segoviana",
+      "origen": "La Matilla, Segovia",
+      "precio": "€",
+      "imagen": "img/embutidos-la-matillana.jpg"
+    },
+    {
+      "id": "canarejal",
+      "nombre": "Cañarejal",
+      "web": "https://canarejal.es/",
+      "categoria": "Comida y bebida",
+      "descripcion": "Quesos artesanos de leche de oveja de su propio rebaño",
+      "origen": "Pollos, Valladolid",
+      "precio": "€",
+      "imagen": "img/canarejal.jpg"
+    },
+    {
+      "id": "tierra-cocida",
+      "nombre": "Tierra Cocida",
+      "web": "https://www.alfartierracocida.com",
+      "categoria": "Hogar y decoración",
+      "descripcion": "Vajilla de cerámica pintada a mano: platos ralladores, aceiteras y cuencos",
+      "origen": "Málaga",
+      "precio": "€€",
+      "imagen": "img/tierra-cocida.jpg"
+    },
+    {
+      "id": "minimalism",
+      "nombre": "Minimalism",
+      "web": "https://minimalismbrand.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Básicos sostenibles sin logo, de algodón orgánico y lana reciclada",
+      "origen": "Madrid",
+      "precio": "€€",
+      "imagen": "img/minimalism.jpg"
+    },
+    {
+      "id": "aziza-puch",
+      "nombre": "Aziza Puch",
+      "web": "https://azizapuch.com/",
+      "categoria": "Moda y complementos",
+      "descripcion": "Pañuelos y fulares de seda natural pintados a mano",
+      "origen": "Meano, Navarra",
+      "precio": "€€",
+      "imagen": "img/aziza-puch.jpg"
+    },
+    {
+      "id": "braggs",
+      "nombre": "Braggs",
+      "web": "https://braggs3d.com/",
+      "categoria": "Otros",
+      "descripcion": "Boquillas personalizadas para instrumentos de viento impresas en 3D",
+      "origen": "Murcia",
+      "precio": "€€",
+      "imagen": "img/braggs.jpg"
+    },
+    {
+      "id": "collapaper",
+      "nombre": "Collapaper",
+      "web": "https://collapaper.com/",
+      "categoria": "Papelería y libros",
+      "descripcion": "Calendarios, agendas y papelería impresos con materiales bioéticos",
+      "origen": "Valencia",
+      "precio": "€",
+      "imagen": "img/collapaper.jpg"
+    },
+    {
+      "id": "riera-joies",
+      "nombre": "Riera Joies",
+      "web": "https://www.rierajoies.com",
+      "categoria": "Joyería",
+      "descripcion": "Joyas de plata con vidrio de mar, hechas a mano",
+      "origen": "Menorca",
+      "precio": "€€",
+      "imagen": "img/riera-joies.jpg"
+    },
+    {
+      "id": "senorio-de-montanera",
+      "nombre": "Señorío de Montanera",
+      "web": "https://tienda.senorio.es",
+      "categoria": "Comida y bebida",
+      "descripcion": "Jamón y embutidos ibéricos de bellota de la dehesa extremeña",
+      "origen": "Badajoz",
+      "precio": "€€€",
+      "imagen": "img/senorio-de-montanera.jpg",
+      "ancha": true
+    },
+    {
+      "id": "senzia",
+      "nombre": "Senzia",
+      "web": "https://www.senzianatural.com/",
+      "categoria": "Comida y bebida",
+      "descripcion": "Caldo de huesos de vacuno deshidratado, original y golden",
+      "origen": "Soria",
+      "precio": "€",
+      "imagen": "img/senzia.jpg"
+    },
+    {
+      "id": "gamuza",
+      "nombre": "Gamuza",
+      "web": "https://gamuzacraft.com",
+      "categoria": "Moda y complementos",
+      "descripcion": "Bolsos y objetos de cuero hechos con pieles que la industria descarta",
+      "origen": "España",
+      "precio": "€€",
+      "imagen": "img/gamuza.jpg"
     }
   ]
 }
